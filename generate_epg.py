@@ -2,9 +2,15 @@
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
+from urllib.request import urlopen
+import json
 
 TZ = ZoneInfo("Europe/London")
 DAYS = 7
+
+# Accrington, Lancashire
+LATITUDE = 53.753
+LONGITUDE = -2.363
 
 channels = {
     "1": ("Split Screen", [
@@ -79,9 +85,102 @@ channels = {
     ])
 }
 
+
+def get_weather():
+    url = (
+        "https://api.open-meteo.com/v1/forecast"
+        "?latitude=53.753&longitude=-2.363"
+        "&hourly=temperature_2m,precipitation_probability,weather_code"
+        "&forecast_days=7&timezone=Europe%2FLondon"
+    )
+
+    try:
+        with urlopen(url, timeout=15) as response:
+            data = json.loads(response.read().decode("utf-8"))
+
+        hourly = data["hourly"]
+        forecast = {}
+
+        for i, time_string in enumerate(hourly["time"]):
+            dt = datetime.fromisoformat(time_string).replace(tzinfo=TZ)
+
+            forecast[dt] = {
+                "temperature": hourly["temperature_2m"][i],
+                "rain": hourly["precipitation_probability"][i],
+                "code": hourly["weather_code"][i]
+            }
+
+        return forecast
+
+    except Exception as error:
+        print(f"Weather unavailable: {error}")
+        return {}
+
+
+def weather_description(begin, forecast):
+    first = forecast.get(begin)
+    second = forecast.get(begin + timedelta(hours=1))
+
+    available = [item for item in (first, second) if item]
+
+    if not available:
+        return "Weather forecast temporarily unavailable."
+
+    temperatures = [x["temperature"] for x in available]
+    rain_values = [x["rain"] for x in available if x["rain"] is not None]
+
+    temperature = round(sum(temperatures) / len(temperatures))
+    rain = max(rain_values) if rain_values else None
+    code = available[0]["code"]
+
+    conditions = {
+        0: "Clear skies",
+        1: "Mainly clear",
+        2: "Partly cloudy",
+        3: "Overcast",
+        45: "Fog",
+        48: "Freezing fog",
+        51: "Light drizzle",
+        53: "Drizzle",
+        55: "Heavy drizzle",
+        56: "Freezing drizzle",
+        57: "Freezing drizzle",
+        61: "Light rain",
+        63: "Rain",
+        65: "Heavy rain",
+        66: "Freezing rain",
+        67: "Heavy freezing rain",
+        71: "Light snow",
+        73: "Snow",
+        75: "Heavy snow",
+        77: "Snow grains",
+        80: "Light rain showers",
+        81: "Rain showers",
+        82: "Heavy rain showers",
+        85: "Snow showers",
+        86: "Heavy snow showers",
+        95: "Thunderstorms",
+        96: "Thunderstorms with hail",
+        99: "Severe thunderstorms with hail"
+    }
+
+    condition = conditions.get(code, "Variable conditions")
+
+    if rain is None:
+        rain_text = "Rain probability unavailable"
+    else:
+        rain_text = f"{rain}% chance of rain"
+
+    return (
+        f"Accrington weather: {condition} • "
+        f"{temperature}°C • {rain_text}."
+    )
+
+
 def xml_time(dt):
     offset = dt.strftime("%z")
     return dt.strftime("%Y%m%d%H%M%S") + " " + offset
+
 
 def generate():
     now = datetime.now(TZ)
@@ -89,6 +188,8 @@ def generate():
 
     if now < start:
         start -= timedelta(days=1)
+
+    forecast = get_weather()
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -108,6 +209,10 @@ def generate():
                 begin = start + timedelta(days=day, hours=slot * 2)
                 end = begin + timedelta(hours=2)
 
+                if cid == "1":
+                    weather = weather_description(begin, forecast)
+                    desc = f"{desc} | {weather}"
+
                 lines += [
                     f'  <programme start="{xml_time(begin)}" stop="{xml_time(end)}" channel="{cid}">',
                     f'    <title>{escape(title)}</title>',
@@ -121,8 +226,7 @@ def generate():
     with open("cctv-epg.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
+
 if __name__ == "__main__":
     generate()
 
-
-#
