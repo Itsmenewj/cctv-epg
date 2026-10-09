@@ -34,6 +34,8 @@ jobs:
 
       - name: Save updated EPG
         run: |
+          set -e
+
           git config user.name "CCTV EPG Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -47,22 +49,17 @@ jobs:
           git commit -m "Update rolling CCTV EPG"
 
           for attempt in 1 2 3; do
+            echo "Push attempt $attempt of 3"
+
             git fetch origin main
+            git rebase origin/main
 
-            if git rebase origin/main; then
-              if git push origin HEAD:main; then
-                echo "EPG successfully updated."
-                exit 0
-              fi
-
-              echo "Push failed; will retry."
-            else
-              echo "Rebase conflict detected."
-              git rebase --abort
-              exit 1
+            if git push origin HEAD:main; then
+              echo "EPG successfully updated."
+              exit 0
             fi
 
-            sleep 2
+            echo "Push rejected; retrying."
           done
 
           echo "Failed to push after 3 attempts."
