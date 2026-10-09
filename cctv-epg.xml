@@ -42,12 +42,12 @@
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="1">
     <title>☀️ Control Room: Afternoon</title>
-    <desc>🔴 LIVE • Continuous property monitoring. | Accrington weather: Partly cloudy • 12°C • 89% chance of rain.</desc>
+    <desc>🔴 LIVE • Continuous property monitoring. | Accrington weather: Light drizzle • 12°C • 89% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="1">
     <title>🌇 Control Room: Evening</title>
-    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Light drizzle • 11°C • 98% chance of rain.</desc>
+    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Partly cloudy • 12°C • 98% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="1">
@@ -67,12 +67,12 @@
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="1">
     <title>🌑 Control Room: Overnight</title>
-    <desc>🔴 LIVE • Overnight multi-camera surveillance. | Accrington weather: Drizzle • 11°C • 100% chance of rain.</desc>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance. | Accrington weather: Drizzle • 10°C • 100% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="1">
     <title>🌘 Control Room: Pre-Dawn</title>
-    <desc>🔴 LIVE • Pre-dawn security monitoring. | Accrington weather: Light drizzle • 10°C • 100% chance of rain.</desc>
+    <desc>🔴 LIVE • Pre-dawn security monitoring. | Accrington weather: Drizzle • 10°C • 100% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="2">
@@ -317,27 +317,27 @@
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="1">
     <title>🌅 Control Room: Morning</title>
-    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view. | Accrington weather: Mainly clear • 10°C • 96% chance of rain.</desc>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view. | Accrington weather: Light drizzle • 10°C • 96% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="1">
     <title>🚨 Control Room: Perimeter</title>
-    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage. | Accrington weather: Partly cloudy • 10°C • 93% chance of rain.</desc>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage. | Accrington weather: Light drizzle • 9°C • 93% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="1">
     <title>🔴 Control Room: Live</title>
-    <desc>🔴 LIVE • Four-camera CCTV split view. | Accrington weather: Overcast • 11°C • 96% chance of rain.</desc>
+    <desc>🔴 LIVE • Four-camera CCTV split view. | Accrington weather: Clear skies • 10°C • 96% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="1">
     <title>☀️ Control Room: Day</title>
-    <desc>🔴 LIVE • Multi-camera daytime monitoring. | Accrington weather: Mainly clear • 12°C • 100% chance of rain.</desc>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring. | Accrington weather: Overcast • 11°C • 100% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="1">
     <title>🔎 Control Room: Property</title>
-    <desc>🔴 LIVE • Multi-zone property surveillance. | Accrington weather: Drizzle • 10°C • 100% chance of rain.</desc>
+    <desc>🔴 LIVE • Multi-zone property surveillance. | Accrington weather: Light drizzle • 11°C • 100% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="1">
@@ -347,17 +347,17 @@
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="1">
     <title>🌇 Control Room: Evening</title>
-    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Light drizzle • 9°C • 86% chance of rain.</desc>
+    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Drizzle • 9°C • 86% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="1">
     <title>🌙 Control Room: Night</title>
-    <desc>🔴 LIVE • Night surveillance. | Accrington weather: Heavy drizzle • 9°C • 65% chance of rain.</desc>
+    <desc>🔴 LIVE • Night surveillance. | Accrington weather: Light drizzle • 8°C • 65% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="1">
     <title>🌙 Control Room: Surveillance</title>
-    <desc>🔴 LIVE • Multi-camera night surveillance. | Accrington weather: Overcast • 8°C • 41% chance of rain.</desc>
+    <desc>🔴 LIVE • Multi-camera night surveillance. | Accrington weather: Light drizzle • 8°C • 41% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="1">
@@ -367,7 +367,7 @@
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="1">
     <title>🌑 Control Room: Overnight</title>
-    <desc>🔴 LIVE • Overnight multi-camera surveillance. | Accrington weather: Light drizzle • 8°C • 12% chance of rain.</desc>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance. | Accrington weather: Partly cloudy • 8°C • 12% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="1">
@@ -627,12 +627,12 @@
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="1">
     <title>🔴 Control Room: Live</title>
-    <desc>🔴 LIVE • Four-camera CCTV split view. | Accrington weather: Mainly clear • 10°C • 18% chance of rain.</desc>
+    <desc>🔴 LIVE • Four-camera CCTV split view. | Accrington weather: Partly cloudy • 10°C • 18% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="1">
     <title>☀️ Control Room: Day</title>
-    <desc>🔴 LIVE • Multi-camera daytime monitoring. | Accrington weather: Partly cloudy • 11°C • 29% chance of rain.</desc>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring. | Accrington weather: Clear skies • 12°C • 29% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="1">
@@ -642,12 +642,12 @@
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="1">
     <title>☀️ Control Room: Afternoon</title>
-    <desc>🔴 LIVE • Continuous property monitoring. | Accrington weather: Partly cloudy • 12°C • 2% chance of rain.</desc>
+    <desc>🔴 LIVE • Continuous property monitoring. | Accrington weather: Partly cloudy • 10°C • 2% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="1">
     <title>🌇 Control Room: Evening</title>
-    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Partly cloudy • 9°C • 0% chance of rain.</desc>
+    <desc>🔴 LIVE • Evening perimeter watch. | Accrington weather: Mainly clear • 8°C • 0% chance of rain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="1">
