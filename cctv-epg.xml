@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Rolling CCTV EPG">
+  <channel id="1">
+    <display-name>Split Screen</display-name>
+  </channel>
+  <channel id="2">
+    <display-name>Doorbell</display-name>
+  </channel>
+  <channel id="3">
+    <display-name>Front Street</display-name>
+  </channel>
+  <channel id="4">
+    <display-name>Back Garden</display-name>
+  </channel>
+  <channel id="5">
+    <display-name>Shed</display-name>
+  </channel>
+  <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="1">
+    <title>🌅 Control Room: Morning</title>
+    <desc>🔴 LIVE • Hikvision multi-camera/NVR control view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="1">
+    <title>🚨 Control Room: Perimeter</title>
+    <desc>🔴 LIVE • Street, entry, garden and outbuilding coverage.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="1">
+    <title>🔴 Control Room: Live</title>
+    <desc>🔴 LIVE • Four-camera CCTV split view.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="1">
+    <title>☀️ Control Room: Day</title>
+    <desc>🔴 LIVE • Multi-camera daytime monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="1">
+    <title>🔎 Control Room: Property</title>
+    <desc>🔴 LIVE • Multi-zone property surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="1">
+    <title>☀️ Control Room: Afternoon</title>
+    <desc>🔴 LIVE • Continuous property monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="1">
+    <title>🌇 Control Room: Evening</title>
+    <desc>🔴 LIVE • Evening perimeter watch.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="1">
+    <title>🌙 Control Room: Night</title>
+    <desc>🔴 LIVE • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="1">
+    <title>🌙 Control Room: Surveillance</title>
+    <desc>🔴 LIVE • Multi-camera night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="1">
+    <title>🌑 Control Room: Late Night</title>
+    <desc>🔴 LIVE • Late-night security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="1">
+    <title>🌑 Control Room: Overnight</title>
+    <desc>🔴 LIVE • Overnight multi-camera surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="1">
+    <title>🌘 Control Room: Pre-Dawn</title>
+    <desc>🔴 LIVE • Pre-dawn security monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="2">
+    <title>🌅 Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="2">
+    <title>🚨 Visitor Perimeter</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • AI detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="2">
+    <title>🔴 Doorbell Live</title>
+    <desc>🔴 LIVE • Tapo D130 • 2K 5MP • Wide-angle entry monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="2">
+    <title>☀️ Front Entry Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Front entrance monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="2">
+    <title>🔎 Visitor Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Person/vehicle/pet/package detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="2">
+    <title>☀️ Delivery Watch</title>
+    <desc>🔴 LIVE • Tapo D130 • Delivery monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="2">
+    <title>🌇 Evening Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Evening entrance surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="2">
+    <title>🌙 Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="2">
+    <title>🌙 Late Night Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Night visitor monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="2">
+    <title>🌑 Late Night Security</title>
+    <desc>🔴 LIVE • Tapo D130 • Entrance night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="2">
+    <title>🌑 Overnight Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Overnight monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="2">
+    <title>🌘 Pre-Dawn Entry</title>
+    <desc>🔴 LIVE • Tapo D130 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="3">
+    <title>🌅 Street Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="3">
+    <title>🚨 Perimeter Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • 4K dual-lens surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="3">
+    <title>🔴 Street Live</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Dual-view street surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="3">
+    <title>☀️ Street Monitoring</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Detection and auto tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="3">
+    <title>🔎 Street Activity</title>
+    <desc>🔴 LIVE • Reolink TrackMix • AI detection and tracking.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="3">
+    <title>☀️ Traffic Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Street and traffic monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="3">
+    <title>🌇 Evening Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Evening surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="3">
+    <title>🌙 Street Night Watch</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="3">
+    <title>🌙 Night Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Auto-tracking perimeter surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="3">
+    <title>🌑 Late Night Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight street monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="3">
+    <title>🌑 Overnight Perimeter</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="3">
+    <title>🌘 Pre-Dawn Street</title>
+    <desc>🔴 LIVE • Reolink TrackMix • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="4">
+    <title>🌅 Garden Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="4">
+    <title>🚨 Rear Perimeter</title>
+    <desc>🔴 LIVE • Tapo C320WS • 2K QHD • Built-in alarm.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="4">
+    <title>🔴 Garden Live</title>
+    <desc>🔴 LIVE • Tapo C320WS • Wide rear garden surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="4">
+    <title>☀️ Garden Security</title>
+    <desc>🔴 LIVE • Tapo C320WS • Person/vehicle detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="4">
+    <title>🔎 Garden Activity</title>
+    <desc>🔴 LIVE • Tapo C320WS • AI person and vehicle monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="4">
+    <title>☀️ Rear Property Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Rear property surveillance • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="4">
+    <title>🌇 Evening Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Evening perimeter monitoring.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="4">
+    <title>🌙 Garden Night Watch</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night vision.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="4">
+    <title>🌙 Rear Surveillance</title>
+    <desc>🔴 LIVE • Tapo C320WS • Colour night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="4">
+    <title>🌑 Late Night Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Night surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="4">
+    <title>🌑 Overnight Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Overnight rear security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="4">
+    <title>🌘 Pre-Dawn Garden</title>
+    <desc>🔴 LIVE • Tapo C320WS • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="5">
+    <title>🌅 Shed Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="5">
+    <title>🚨 Outbuilding Perimeter</title>
+    <desc>🔴 LIVE • Tapo C310 • 3MP • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="5">
+    <title>🔴 Shed Live</title>
+    <desc>🔴 LIVE • Tapo C310 • Shed and outbuilding surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="5">
+    <title>☀️ Shed Security</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion monitoring • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="5">
+    <title>🔎 Outbuilding Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • Person/motion detection.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="5">
+    <title>☀️ Shed Activity</title>
+    <desc>🔴 LIVE • Tapo C310 • Continuous surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="5">
+    <title>🌇 Evening Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Evening security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="5">
+    <title>🌙 Shed Night Watch</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision up to 30m.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="5">
+    <title>🌙 Outbuilding Surveillance</title>
+    <desc>🔴 LIVE • Tapo C310 • IR night vision • 2-way audio.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="5">
+    <title>🌑 Late Night Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight IR surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="5">
+    <title>🌑 Overnight Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Overnight security.</desc>
+    <category>CCTV</category>
+  </programme>
+  <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="5">
+    <title>🌘 Pre-Dawn Shed</title>
+    <desc>🔴 LIVE • Tapo C310 • Pre-dawn surveillance.</desc>
+    <category>CCTV</category>
+  </programme>
+</tv>
