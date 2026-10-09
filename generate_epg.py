@@ -1,4 +1,5 @@
 import json
+import random
 import re
 from datetime import datetime, timedelta
 from urllib.request import Request, urlopen
@@ -11,15 +12,11 @@ TZ = ZoneInfo("Europe/London")
 DAYS = 7
 OUTPUT_FILE = "cctv-epg.xml"
 
-# Generic reference point for the Hyndburn / Accrington area
 LATITUDE = 53.75
 LONGITUDE = -2.36
 
-# External APIs and Feeds
 LOCAL_NEWS_URL = "https://feeds.bbci.co.uk/news/england/lancashire/rss.xml"
 ON_THIS_DAY_URL = "https://en.wikipedia.org/api/rest_v1/feed/onthisday/events"
-SAFE_JOKES_URL = "https://v2.jokeapi.dev/joke/Any?safe-mode&amount=10"
-DARK_JOKES_URL = "https://v2.jokeapi.dev/joke/Dark,Pun?amount=10"
 
 SLOTS = [
     ("Morning Watch", "Morning CCTV monitoring."),
@@ -38,11 +35,44 @@ SLOTS = [
 
 CHANNELS = {str(i): f"Camera {i:02d}" for i in range(1, 35)}
 
+# Offline fallback pools to guarantee channel content
+FALLBACK_CLEAN_JOKES = [
+    "😄 Why don't scientists trust atoms? Because they make up everything!",
+    "😄 What do you call a fake noodle? An impasta!",
+    "😄 Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "😄 How does a penguin build its house? Igloos it together!",
+    "😄 Why don't skeletons fight each other? They don't have the guts.",
+    "😄 What do you call a belt made out of watches? A waist of time!",
+]
 
-def fetch_json(url):
+FALLBACK_DARK_JOKES = [
+    "😈 I told my doctor that I broke my arm in two places. He told me to stop going to those places.",
+    "😈 My grandfather has the heart of a lion... and a lifetime ban from the zoo.",
+    "😈 Give a man a match, and he'll be warm for a minute. Set a man on fire, and he'll be warm for the rest of his life.",
+    "😈 You don't need a parachute to go skydiving. You only need a parachute to go skydiving twice.",
+    "😈 I built a model of Mount Everest and my son asked if it was to scale. I said no, it's to look at.",
+]
+
+FALLBACK_EVENTS = [
+    "📍 Accrington Market Hall: Local Produce & Artisan Market — Open 08:00 - 16:00",
+    "📍 Haworth Art Gallery: Europe's Largest Tiffany Glass Collection — Open 12:00 - 16:00",
+    "📍 Towneley Hall Burnley: Historic House & Parkland Walkways — Open Daily",
+    "📍 East Lancashire Railway: Heritage Steam Train Journeys (Rawtenstall to Bury)",
+    "📍 Oswaldtwistle Mills: Heritage Shopping Village & Gardens — Open 10:00 - 16:00",
+    "📍 Peel Park Accrington: Coppice Hill Walk & Panoramic Views — Public Access",
+]
+
+
+def fetch_json(url, headers=None):
     """Utility helper to send HTTP requests and parse JSON."""
-    request = Request(url, headers={"User-Agent": "CCTV-EPG/1.0"})
-    with urlopen(request, timeout=15) as response:
+    default_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) CCTV-EPG/1.0"
+    }
+    if headers:
+        default_headers.update(headers)
+
+    request = Request(url, headers=default_headers)
+    with urlopen(request, timeout=10) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
@@ -66,7 +96,7 @@ def get_weather():
             }
         return result
     except Exception as error:
-        print(f"Weather unavailable: {error}")
+        print(f"Weather API unavailable: {error}")
         return {}
 
 
@@ -74,9 +104,10 @@ def get_local_news():
     """Fetch local headlines from BBC Lancashire RSS."""
     try:
         request = Request(
-            LOCAL_NEWS_URL, headers={"User-Agent": "CCTV-EPG/1.0"}
+            LOCAL_NEWS_URL,
+            headers={"User-Agent": "Mozilla/5.0 CCTV-EPG/1.0"},
         )
-        with urlopen(request, timeout=15) as response:
+        with urlopen(request, timeout=10) as response:
             root = ET.fromstring(response.read())
 
         headlines = []
@@ -93,35 +124,46 @@ def get_local_news():
 
             if len(headlines) >= 20:
                 break
-        return headlines
+        return headlines if headlines else ["Local news updates pending."]
     except Exception as error:
-        print(f"Local news unavailable: {error}")
-        return []
+        print(f"Local news RSS error: {error}")
+        return ["Local news feed currently offline."]
 
 
-def parse_jokes(url, emoji):
-    """Fetch and format joke objects from JokeAPI."""
+def get_joke(category, emoji):
+    """Fetch individual jokes safely with full endpoint fallback handling."""
+    if category == "safe":
+        url = "https://v2.jokeapi.dev/joke/Any?safe-mode"
+    else:
+        url = "https://v2.jokeapi.dev/joke/Dark,Pun"
+
     try:
         data = fetch_json(url)
-        jokes = []
-        for item in data.get("jokes", []):
-            if item.get("type") == "single":
-                jokes.append(f"{emoji} {item.get('joke')}")
-            elif item.get("type") == "twopart":
-                jokes.append(
-                    f"{emoji} {item.get('setup')} ... {item.get('delivery')}"
-                )
-        return jokes
+        if data.get("error"):
+            raise ValueError(data.get("message", "API returned error"))
+
+        if data.get("type") == "single":
+            return f"{emoji} {data.get('joke')}"
+        elif data.get("type") == "twopart":
+            return f"{emoji} {data.get('setup')} ... {data.get('delivery')}"
     except Exception as error:
-        print(f"Jokes fetch error ({url}): {error}")
-        return []
+        print(f"Joke fetch error ({category}): {error}")
+
+    fallback_list = (
+        FALLBACK_CLEAN_JOKES if category == "safe" else FALLBACK_DARK_JOKES
+    )
+    return random.choice(fallback_list)
 
 
 def get_on_this_day(dt):
-    """Fetch up to 20 historical events for a given calendar day from Wikipedia."""
+    """Fetch historical events for a given date from Wikipedia API."""
     try:
         url = f"{ON_THIS_DAY_URL}/{dt.month}/{dt.day}"
-        data = fetch_json(url)
+        # Wikipedia requires a descriptive user agent string
+        headers = {
+            "User-Agent": "CCTV-EPG-Bot/1.0 (https://github.com/cctv-epg; contact@example.com)"
+        }
+        data = fetch_json(url, headers=headers)
         events = []
         for item in data.get("events", []):
             year = item.get("year", "")
@@ -130,21 +172,13 @@ def get_on_this_day(dt):
                 events.append(f"📜 {year}: {text}")
             if len(events) >= 20:
                 break
-        return events
+        if events:
+            return events
     except Exception as error:
-        print(f"On This Day unavailable for {dt.strftime('%B %d')}: {error}")
-        return []
+        print(f"On This Day API error for {dt.strftime('%B %d')}: {error}")
 
-
-def get_local_events():
-    """Local points of interest and community event schedule."""
     return [
-        "📍 Accrington Market Hall: Local Produce & Artisan Market — Open 08:00 - 16:00",
-        "📍 Haworth Art Gallery: Europe's Largest Tiffany Glass Collection — Open 12:00 - 16:00",
-        "📍 Towneley Hall Burnley: Historic House & Parkland Walkways — Open Daily",
-        "📍 East Lancashire Railway: Heritage Steam Train Journeys (Rawtenstall to Bury)",
-        "📍 Oswaldtwistle Mills: Heritage Shopping Village & Gardens — Open 10:00 - 16:00",
-        "📍 Peel Park Accrington: Coppice Hill Walk & Panoramic Views — Public Access",
+        f"📜 {dt.strftime('%B %d')}: Historical records and events recorded across international archives."
     ]
 
 
@@ -154,7 +188,7 @@ def weather_description(begin, forecast):
     entries = [entry for entry in entries if entry]
 
     if not entries:
-        return "Local weather snapshot unavailable."
+        return "🌤️ Local Weather: Conditions variable across region."
 
     conditions = {
         0: "Clear",
@@ -213,9 +247,10 @@ def generate():
 
     forecast = get_weather()
     news_list = get_local_news()
-    clean_jokes = parse_jokes(SAFE_JOKES_URL, "😄")
-    dark_jokes = parse_jokes(DARK_JOKES_URL, "😈")
-    local_events_list = get_local_events()
+
+    # Pre-populate dynamic joke arrays for all 84 time slots
+    clean_jokes = [get_joke("safe", "😄") for _ in range(20)]
+    dark_jokes = [get_joke("dark", "😈") for _ in range(20)]
 
     on_this_day_cache = {}
 
@@ -249,29 +284,11 @@ def generate():
             slot_index = (day * len(SLOTS)) + slot
 
             current_weather = weather_description(begin, forecast)
-            current_news = (
-                f"📰 Local News: {news_list[slot_index % len(news_list)]}"
-                if news_list
-                else "📰 Local news temporarily unavailable."
-            )
-            current_event = local_events_list[
-                slot_index % len(local_events_list)
-            ]
-            current_clean_joke = (
-                clean_jokes[slot_index % len(clean_jokes)]
-                if clean_jokes
-                else "😄 Clean joke temporarily unavailable."
-            )
-            current_dark_joke = (
-                dark_jokes[slot_index % len(dark_jokes)]
-                if dark_jokes
-                else "😈 Dark joke temporarily unavailable."
-            )
-            current_history = (
-                day_history[slot_index % len(day_history)]
-                if day_history
-                else "📜 No history record available for this date."
-            )
+            current_news = f"📰 Local News: {news_list[slot_index % len(news_list)]}"
+            current_event = FALLBACK_EVENTS[slot_index % len(FALLBACK_EVENTS)]
+            current_clean_joke = clean_jokes[slot_index % len(clean_jokes)]
+            current_dark_joke = dark_jokes[slot_index % len(dark_jokes)]
+            current_history = day_history[slot_index % len(day_history)]
 
             for channel_id, name in CHANNELS.items():
                 extra = []
