@@ -1,11 +1,37 @@
+name: Update CCTV EPG
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository files
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate EPG
+        run: python generate_epg.py
 
       - name: Save updated EPG
         run: |
           git config user.name "CCTV EPG Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
           git add cctv-epg.xml
-          git diff --cached --quiet || (
-            git commit -m "Update rolling CCTV EPG"
-          )
-          git pull --rebase origin main
-          git push origin main
+          git diff --cached --quiet && exit 0
+          git commit -m "Update rolling CCTV EPG"
+          git push origin HEAD:main
