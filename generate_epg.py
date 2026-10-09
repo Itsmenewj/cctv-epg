@@ -2,139 +2,121 @@
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
+from xml.etree import ElementTree as ET
 import json
 
 TZ = ZoneInfo("Europe/London")
 DAYS = 7
+OUTPUT_FILE = "cctv-epg.xml"
 
-# Accrington, Lancashire
-LATITUDE = 53.753
-LONGITUDE = -2.363
+# Generic UK-wide reference point, not a personal location.
+LATITUDE = 52.5
+LONGITUDE = -1.9
 
-channels = {
-    "1": ("Split Screen", [
-        ("🌅 Control Room: Morning", "Hikvision multi-camera/NVR control view."),
-        ("🚨 Control Room: Perimeter", "Street, entry, garden and outbuilding coverage."),
-        ("🔴 Control Room: Live", "Four-camera CCTV split view."),
-        ("☀️ Control Room: Day", "Multi-camera daytime monitoring."),
-        ("🔎 Control Room: Property", "Multi-zone property surveillance."),
-        ("☀️ Control Room: Afternoon", "Continuous property monitoring."),
-        ("🌇 Control Room: Evening", "Evening perimeter watch."),
-        ("🌙 Control Room: Night", "Night surveillance."),
-        ("🌙 Control Room: Surveillance", "Multi-camera night surveillance."),
-        ("🌑 Control Room: Late Night", "Late-night security monitoring."),
-        ("🌑 Control Room: Overnight", "Overnight multi-camera surveillance."),
-        ("🌘 Control Room: Pre-Dawn", "Pre-dawn security monitoring.")
-    ]),
-    "2": ("Doorbell", [
-        ("🌅 Front Entry Watch", "Tapo D130 • 2K 5MP • 180° view • Person/vehicle/pet/package detection • Colour night vision • 2-way audio."),
-        ("🚨 Visitor Perimeter", "Tapo D130 • 2K 5MP • AI detection • 2-way audio."),
-        ("🔴 Doorbell Live", "Tapo D130 • 2K 5MP • Wide-angle entry monitoring."),
-        ("☀️ Front Entry Watch", "Tapo D130 • Front entrance monitoring • 2-way audio."),
-        ("🔎 Visitor Watch", "Tapo D130 • Person/vehicle/pet/package detection."),
-        ("☀️ Delivery Watch", "Tapo D130 • Delivery monitoring • 2-way audio."),
-        ("🌇 Evening Entry", "Tapo D130 • Evening entrance surveillance."),
-        ("🌙 Night Entry", "Tapo D130 • Colour night vision."),
-        ("🌙 Late Night Entry", "Tapo D130 • Night visitor monitoring."),
-        ("🌑 Late Night Security", "Tapo D130 • Entrance night surveillance."),
-        ("🌑 Overnight Entry", "Tapo D130 • Overnight monitoring."),
-        ("🌘 Pre-Dawn Entry", "Tapo D130 • Pre-dawn surveillance.")
-    ]),
-    "3": ("Front Street", [
-        ("🌅 Street Watch", "Reolink TrackMix • 4K • Dual lens • Auto tracking • Person/vehicle/animal detection."),
-        ("🚨 Perimeter Watch", "Reolink TrackMix • 4K dual-lens surveillance."),
-        ("🔴 Street Live", "Reolink TrackMix • Dual-view street surveillance."),
-        ("☀️ Street Monitoring", "Reolink TrackMix • Detection and auto tracking."),
-        ("🔎 Street Activity", "Reolink TrackMix • AI detection and tracking."),
-        ("☀️ Traffic Watch", "Reolink TrackMix • Street and traffic monitoring."),
-        ("🌇 Evening Street", "Reolink TrackMix • Evening surveillance."),
-        ("🌙 Street Night Watch", "Reolink TrackMix • Night surveillance."),
-        ("🌙 Night Perimeter", "Reolink TrackMix • Auto-tracking perimeter surveillance."),
-        ("🌑 Late Night Street", "Reolink TrackMix • Overnight street monitoring."),
-        ("🌑 Overnight Perimeter", "Reolink TrackMix • Overnight security."),
-        ("🌘 Pre-Dawn Street", "Reolink TrackMix • Pre-dawn surveillance.")
-    ]),
-    "4": ("Back Garden", [
-        ("🌅 Garden Watch", "Tapo C320WS • 2K QHD 2560×1440 • Colour night vision • Person/vehicle detection • 2-way audio."),
-        ("🚨 Rear Perimeter", "Tapo C320WS • 2K QHD • Built-in alarm."),
-        ("🔴 Garden Live", "Tapo C320WS • Wide rear garden surveillance."),
-        ("☀️ Garden Security", "Tapo C320WS • Person/vehicle detection."),
-        ("🔎 Garden Activity", "Tapo C320WS • AI person and vehicle monitoring."),
-        ("☀️ Rear Property Watch", "Tapo C320WS • Rear property surveillance • 2-way audio."),
-        ("🌇 Evening Garden", "Tapo C320WS • Evening perimeter monitoring."),
-        ("🌙 Garden Night Watch", "Tapo C320WS • Colour night vision."),
-        ("🌙 Rear Surveillance", "Tapo C320WS • Colour night surveillance."),
-        ("🌑 Late Night Garden", "Tapo C320WS • Night surveillance."),
-        ("🌑 Overnight Garden", "Tapo C320WS • Overnight rear security."),
-        ("🌘 Pre-Dawn Garden", "Tapo C320WS • Pre-dawn surveillance.")
-    ]),
-    "5": ("Shed", [
-        ("🌅 Shed Watch", "Tapo C310 • 3MP 2304×1296 • IR night vision up to 30m • Person/motion detection • 2-way audio."),
-        ("🚨 Outbuilding Perimeter", "Tapo C310 • 3MP • Person/motion detection."),
-        ("🔴 Shed Live", "Tapo C310 • Shed and outbuilding surveillance."),
-        ("☀️ Shed Security", "Tapo C310 • Person/motion monitoring • 2-way audio."),
-        ("🔎 Outbuilding Watch", "Tapo C310 • Person/motion detection."),
-        ("☀️ Shed Activity", "Tapo C310 • Continuous surveillance."),
-        ("🌇 Evening Shed", "Tapo C310 • Evening security."),
-        ("🌙 Shed Night Watch", "Tapo C310 • IR night vision up to 30m."),
-        ("🌙 Outbuilding Surveillance", "Tapo C310 • IR night vision • 2-way audio."),
-        ("🌑 Late Night Shed", "Tapo C310 • Overnight IR surveillance."),
-        ("🌑 Overnight Shed", "Tapo C310 • Overnight security."),
-        ("🌘 Pre-Dawn Shed", "Tapo C310 • Pre-dawn surveillance.")
-    ])
+NEWS_URL = "https://feeds.bbci.co.uk/news/uk/rss.xml"
+
+SLOTS = [
+    ("Morning Watch", "Morning CCTV monitoring."),
+    ("Perimeter Watch", "Perimeter and access-point monitoring."),
+    ("Live Surveillance", "Continuous CCTV surveillance."),
+    ("Daytime Watch", "Daytime security monitoring."),
+    ("Activity Watch", "General property and perimeter monitoring."),
+    ("Afternoon Watch", "Afternoon CCTV monitoring."),
+    ("Evening Watch", "Evening security monitoring."),
+    ("Night Watch", "Night-time CCTV surveillance."),
+    ("Late Night Watch", "Late-night security monitoring."),
+    ("Overnight Watch", "Overnight CCTV surveillance."),
+    ("Security Monitor", "Continuous security monitoring."),
+    ("Pre-Dawn Watch", "Pre-dawn CCTV monitoring."),
+]
+
+CHANNELS = {
+    str(i): f"Camera {i:02d}"
+    for i in range(1, 35)
 }
+
+
+def fetch_json(url):
+    request = Request(
+        url,
+        headers={"User-Agent": "CCTV-EPG/1.0"}
+    )
+    with urlopen(request, timeout=15) as response:
+        return json.loads(response.read().decode("utf-8"))
 
 
 def get_weather():
     url = (
         "https://api.open-meteo.com/v1/forecast"
-        "?latitude=53.753&longitude=-2.363"
+        f"?latitude={LATITUDE}&longitude={LONGITUDE}"
         "&hourly=temperature_2m,precipitation_probability,weather_code"
         "&forecast_days=7&timezone=Europe%2FLondon"
     )
 
     try:
-        with urlopen(url, timeout=15) as response:
-            data = json.loads(response.read().decode("utf-8"))
+        data = fetch_json(url)["hourly"]
+        result = {}
 
-        hourly = data["hourly"]
-        forecast = {}
-
-        for i, time_string in enumerate(hourly["time"]):
+        for i, time_string in enumerate(data["time"]):
             dt = datetime.fromisoformat(time_string).replace(tzinfo=TZ)
-
-            forecast[dt] = {
-                "temperature": hourly["temperature_2m"][i],
-                "rain": hourly["precipitation_probability"][i],
-                "code": hourly["weather_code"][i]
+            result[dt] = {
+                "temperature": data["temperature_2m"][i],
+                "rain": data["precipitation_probability"][i],
+                "code": data["weather_code"][i],
             }
 
-        return forecast
+        return result
 
     except Exception as error:
         print(f"Weather unavailable: {error}")
         return {}
 
 
+def get_news():
+    """Return a few current UK headlines; never fail the EPG build."""
+    try:
+        request = Request(
+            NEWS_URL,
+            headers={"User-Agent": "CCTV-EPG/1.0"}
+        )
+        with urlopen(request, timeout=15) as response:
+            root = ET.fromstring(response.read())
+
+        headlines = []
+
+        for item in root.findall("./channel/item"):
+            title = item.findtext("title", "").strip()
+            description = item.findtext("description", "").strip()
+
+            if title:
+                text = title
+                if description:
+                    text += " — " + description
+                headlines.append(text)
+
+            if len(headlines) >= 5:
+                break
+
+        return headlines
+
+    except Exception as error:
+        print(f"News unavailable: {error}")
+        return []
+
+
 def weather_description(begin, forecast):
-    first = forecast.get(begin)
-    second = forecast.get(begin + timedelta(hours=1))
+    entries = [
+        forecast.get(begin),
+        forecast.get(begin + timedelta(hours=1)),
+    ]
+    entries = [entry for entry in entries if entry]
 
-    available = [item for item in (first, second) if item]
-
-    if not available:
-        return "Weather forecast temporarily unavailable."
-
-    temperatures = [x["temperature"] for x in available]
-    rain_values = [x["rain"] for x in available if x["rain"] is not None]
-
-    temperature = round(sum(temperatures) / len(temperatures))
-    rain = max(rain_values) if rain_values else None
-    code = available[0]["code"]
+    if not entries:
+        return "UK weather snapshot unavailable."
 
     conditions = {
-        0: "Clear skies",
+        0: "Clear",
         1: "Mainly clear",
         2: "Partly cloudy",
         3: "Overcast",
@@ -154,79 +136,120 @@ def weather_description(begin, forecast):
         73: "Snow",
         75: "Heavy snow",
         77: "Snow grains",
-        80: "Light rain showers",
+        80: "Light showers",
         81: "Rain showers",
-        82: "Heavy rain showers",
+        82: "Heavy showers",
         85: "Snow showers",
         86: "Heavy snow showers",
         95: "Thunderstorms",
         96: "Thunderstorms with hail",
-        99: "Severe thunderstorms with hail"
+        99: "Severe thunderstorms with hail",
     }
 
-    condition = conditions.get(code, "Variable conditions")
+    temperatures = [
+        item["temperature"]
+        for item in entries
+        if item["temperature"] is not None
+    ]
+    rain_values = [
+        item["rain"]
+        for item in entries
+        if item["rain"] is not None
+    ]
 
-    if rain is None:
-        rain_text = "Rain probability unavailable"
-    else:
-        rain_text = f"{rain}% chance of rain"
+    temperature_text = (
+        f"{round(sum(temperatures) / len(temperatures))}°C"
+        if temperatures else "Temperature unavailable"
+    )
+
+    rain_text = (
+        f"{max(rain_values)}% precipitation chance"
+        if rain_values else "Precipitation chance unavailable"
+    )
+
+    condition = conditions.get(entries[0]["code"], "Variable conditions")
 
     return (
-        f"Accrington weather: {condition} • "
-        f"{temperature}°C • {rain_text}."
+        f"Central England weather snapshot: {condition}; "
+        f"{temperature_text}; {rain_text}. "
+        "Conditions vary across the UK."
     )
 
 
 def xml_time(dt):
-    offset = dt.strftime("%z")
-    return dt.strftime("%Y%m%d%H%M%S") + " " + offset
+    return dt.strftime("%Y%m%d%H%M%S %z")
 
 
 def generate():
     now = datetime.now(TZ)
-    start = now.replace(hour=6, minute=0, second=0, microsecond=0)
+    start = now.replace(
+        hour=6, minute=0, second=0, microsecond=0
+    )
 
     if now < start:
         start -= timedelta(days=1)
 
     forecast = get_weather()
+    headlines = get_news()
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        '<tv generator-info-name="Rolling CCTV EPG">'
+        '<tv generator-info-name="Reusable CCTV EPG">',
     ]
 
-    for cid, (name, _) in channels.items():
-        lines += [
-            f'  <channel id="{cid}">',
+    # Stable numeric IDs preserve compatibility with existing templates.
+    for channel_id, name in CHANNELS.items():
+        lines.extend([
+            f'  <channel id="{channel_id}">',
             f'    <display-name>{escape(name)}</display-name>',
-            '  </channel>'
-        ]
+            '  </channel>',
+        ])
 
     for day in range(DAYS):
-        for cid, (name, programmes) in channels.items():
-            for slot, (title, desc) in enumerate(programmes):
-                begin = start + timedelta(days=day, hours=slot * 2)
+        for channel_id, name in CHANNELS.items():
+            for slot, (title, description) in enumerate(SLOTS):
+                begin = start + timedelta(
+                    days=day, hours=slot * 2
+                )
                 end = begin + timedelta(hours=2)
 
-                if cid == "1":
-                    weather = weather_description(begin, forecast)
-                    desc = f"{desc} | {weather}"
+                extra = []
 
-                lines += [
-                    f'  <programme start="{xml_time(begin)}" stop="{xml_time(end)}" channel="{cid}">',
-                    f'    <title>{escape(title)}</title>',
-                    f'    <desc>🔴 LIVE • {escape(desc)}</desc>',
+                # Shared information is shown on Camera 01 only,
+                # avoiding unnecessary repetition in the other channels.
+                if channel_id == "1":
+                    extra.append(weather_description(begin, forecast))
+
+                    if headlines:
+                        extra.append("UK news headlines: " + " | ".join(headlines))
+                    else:
+                        extra.append("UK news headlines temporarily unavailable.")
+
+                full_description = description
+                if extra:
+                    full_description += " | " + " | ".join(extra)
+
+                lines.extend([
+                    (
+                        f'  <programme start="{xml_time(begin)}" '
+                        f'stop="{xml_time(end)}" channel="{channel_id}">'
+                    ),
+                    f'    <title>{escape(name + ": " + title)}</title>',
+                    f'    <desc>{escape("🔴 LIVE • " + full_description)}</desc>',
                     '    <category>CCTV</category>',
-                    '  </programme>'
-                ]
+                    '  </programme>',
+                ])
 
-    lines.append('</tv>')
+    lines.append("</tv>")
 
-    with open("cctv-epg.xml", "w", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+        file.write("\n".join(lines) + "\n")
+
+    print(
+        f"Generated {OUTPUT_FILE}: "
+        f"{len(CHANNELS)} channels, {DAYS} days."
+    )
 
 
 if __name__ == "__main__":
     generate()
-
