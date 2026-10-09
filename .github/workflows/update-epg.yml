@@ -1,5 +1,5 @@
 
-name: Update CCTV EPG
+name: Update CCTV EPG - FIXED
 
 on:
   schedule:
