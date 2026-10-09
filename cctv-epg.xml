@@ -104,7 +104,7 @@
   </channel>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="1">
     <title>Camera 01: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="2">
@@ -114,7 +114,13 @@
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="4">
@@ -129,7 +135,7 @@
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Why is it so hard to break up with a Japanese girlfriend? ... You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="7">
@@ -274,7 +280,7 @@
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="1">
     <title>Camera 01: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="2">
@@ -284,7 +290,7 @@
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Never date a baker. They're too kneady.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="4">
@@ -299,7 +305,7 @@
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. ... Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="7">
@@ -444,7 +450,7 @@
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="1">
     <title>Camera 01: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="2">
@@ -454,7 +460,8 @@
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 What do Santa's little helpers learn at school? ... The elf-abet!
+</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="4">
@@ -469,7 +476,7 @@
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 You see, mountains aren't just funny. ... They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="7">
@@ -614,7 +621,7 @@
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="1">
     <title>Camera 01: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="2">
@@ -624,8 +631,7 @@
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="4">
@@ -640,7 +646,9 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="7">
@@ -785,7 +793,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="1">
     <title>Camera 01: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="2">
@@ -795,7 +803,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 I'd tell you a joke about NAT but I would have to translate.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="4">
@@ -810,7 +818,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Where do sick cruise ships go to get healthy? ... The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="7">
@@ -955,7 +963,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="1">
     <title>Camera 01: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="2">
@@ -965,7 +973,10 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="4">
@@ -980,7 +991,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What is the difference between acne and a catholic priest? ... Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="7">
@@ -1125,7 +1136,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="1">
     <title>Camera 01: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="2">
@@ -1135,8 +1146,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="4">
@@ -1151,7 +1161,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="7">
@@ -1296,7 +1306,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="1">
     <title>Camera 01: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="2">
@@ -1306,8 +1316,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 My employer came running to me and said, "I was looking for you all day! Where the hell have you been?" ... I replied, "Good employees are hard to find."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="4">
@@ -1322,7 +1331,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Dark humor is like cancer. ... It's funnier when children get it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="7">
@@ -1467,7 +1476,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="1">
     <title>Camera 01: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | Local weather snapshot unavailable.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 🌤️ Local Weather: Conditions variable across region.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="2">
@@ -1477,7 +1486,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 A Roman walks into a bar and raises 2 fingers and says to the bartender... ... "Five beers, please."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="4">
@@ -1492,7 +1501,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="7">
@@ -1637,7 +1646,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="1">
     <title>Camera 01: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 🌤️ Local Weather: Light rain; 10°C; 100% rain risk.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 🌤️ Local Weather: Light drizzle; 10°C; 100% rain risk.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="2">
@@ -1647,7 +1656,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 What is the most used language in programming? ... Profanity.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="4">
@@ -1662,7 +1671,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What is the difference between a pizza and a black man? ... A pizza can feed a family of five.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="7">
@@ -1807,7 +1816,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="1">
     <title>Camera 01: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 🌤️ Local Weather: Light drizzle; 10°C; 100% rain risk.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 🌤️ Local Weather: Drizzle; 10°C; 100% rain risk.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="2">
@@ -1817,7 +1826,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why was the JavaScript developer sad? ... Because they didn't Node how to Express themself!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="4">
@@ -1832,7 +1841,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Oysters hate to give away their pearls because they are shellfish.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="7">
@@ -1977,7 +1986,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="1">
     <title>Camera 01: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 🌤️ Local Weather: Light drizzle; 10°C; 100% rain risk.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 🌤️ Local Weather: Heavy drizzle; 10°C; 100% rain risk.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="2">
@@ -1987,7 +1996,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Yo mama is so old, she knew Burger King while he was still a prince.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="4">
@@ -2002,7 +2011,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="7">
@@ -2147,7 +2156,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="1">
     <title>Camera 01: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 🌤️ Local Weather: Drizzle; 9°C; 96% rain risk.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 🌤️ Local Weather: Light drizzle; 9°C; 96% rain risk.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="2">
@@ -2157,7 +2166,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 Do you know what killed the man who had a two ton pumpkin fall on him? ... He was squashed.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="4">
@@ -2172,7 +2181,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="7">
@@ -2317,7 +2326,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="1">
     <title>Camera 01: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 🌤️ Local Weather: Light drizzle; 9°C; 93% rain risk.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 🌤️ Local Weather: Clear; 9°C; 93% rain risk.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="2">
@@ -2327,8 +2336,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="4">
@@ -2343,7 +2351,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What do you call a kid with no arms and an eyepatch? ... Names.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="7">
@@ -2498,7 +2506,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 "99.9% of the people are dumb!" ... "Fortunately I belong to the remaining 1%"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="4">
@@ -2513,7 +2521,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 The past, the present and the future walk into a bar. ... It was tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="7">
@@ -2668,7 +2676,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Why is 6 afraid of 7 in hexadecimal Canada? ... Because 7 8 9 A?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="4">
@@ -2683,7 +2691,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="7">
@@ -2838,8 +2846,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="4">
@@ -2854,7 +2861,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Why did the banana go see a doctor? ... Because it wasn't peeling well.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="7">
@@ -3009,8 +3016,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Why did the database administrator leave his wife? ... She had one-to-many relationships.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="4">
@@ -3025,7 +3031,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 I'm reading a book about anti-gravity. It's impossible to put down!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="7">
@@ -3180,7 +3186,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why was the mushroom always invited to parties? ... Cause he's a fungi.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="4">
@@ -3195,7 +3201,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 Why can't orphans play baseball? ... They don't know where home is.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="7">
@@ -3350,7 +3356,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 What did the cell say when his sister cell stepped on his foot? ... Mitosis.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="4">
@@ -3365,7 +3371,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Why don't jews eat pussy? ... It's too close to the gas chamber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="7">
@@ -3520,7 +3526,13 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="4">
@@ -3535,7 +3547,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Why is it so hard to break up with a Japanese girlfriend? ... You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="7">
@@ -3690,7 +3702,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Never date a baker. They're too kneady.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="4">
@@ -3705,7 +3717,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. ... Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="7">
@@ -3860,7 +3872,8 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 What do Santa's little helpers learn at school? ... The elf-abet!
+</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="4">
@@ -3875,7 +3888,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 You see, mountains aren't just funny. ... They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="7">
@@ -4030,8 +4043,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="4">
@@ -4046,7 +4058,9 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="7">
@@ -4201,7 +4215,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 I'd tell you a joke about NAT but I would have to translate.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="4">
@@ -4216,7 +4230,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Where do sick cruise ships go to get healthy? ... The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="7">
@@ -4371,7 +4385,10 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="4">
@@ -4386,7 +4403,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What is the difference between acne and a catholic priest? ... Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="7">
@@ -4541,8 +4558,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="4">
@@ -4557,7 +4573,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="7">
@@ -4712,8 +4728,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 My employer came running to me and said, "I was looking for you all day! Where the hell have you been?" ... I replied, "Good employees are hard to find."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="4">
@@ -4728,7 +4743,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 Dark humor is like cancer. ... It's funnier when children get it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="7">
@@ -4883,7 +4898,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 A Roman walks into a bar and raises 2 fingers and says to the bartender... ... "Five beers, please."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="4">
@@ -4898,7 +4913,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="7">
@@ -5053,7 +5068,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 What is the most used language in programming? ... Profanity.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="4">
@@ -5068,7 +5083,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What is the difference between a pizza and a black man? ... A pizza can feed a family of five.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="7">
@@ -5223,7 +5238,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why was the JavaScript developer sad? ... Because they didn't Node how to Express themself!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="4">
@@ -5238,7 +5253,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 Oysters hate to give away their pearls because they are shellfish.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="7">
@@ -5393,7 +5408,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Yo mama is so old, she knew Burger King while he was still a prince.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="4">
@@ -5408,7 +5423,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="7">
@@ -5563,7 +5578,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 Do you know what killed the man who had a two ton pumpkin fall on him? ... He was squashed.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="4">
@@ -5578,7 +5593,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="7">
@@ -5733,8 +5748,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="4">
@@ -5749,7 +5763,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What do you call a kid with no arms and an eyepatch? ... Names.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="7">
@@ -5904,7 +5918,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 "99.9% of the people are dumb!" ... "Fortunately I belong to the remaining 1%"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="4">
@@ -5919,7 +5933,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 The past, the present and the future walk into a bar. ... It was tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="7">
@@ -6074,7 +6088,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Why is 6 afraid of 7 in hexadecimal Canada? ... Because 7 8 9 A?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="4">
@@ -6089,7 +6103,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="7">
@@ -6244,8 +6258,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="4">
@@ -6260,7 +6273,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Why did the banana go see a doctor? ... Because it wasn't peeling well.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="7">
@@ -6415,8 +6428,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Why did the database administrator leave his wife? ... She had one-to-many relationships.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="4">
@@ -6431,7 +6443,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 I'm reading a book about anti-gravity. It's impossible to put down!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="7">
@@ -6586,7 +6598,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Why was the mushroom always invited to parties? ... Cause he's a fungi.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="4">
@@ -6601,7 +6613,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Why can't orphans play baseball? ... They don't know where home is.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="7">
@@ -6756,7 +6768,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 What did the cell say when his sister cell stepped on his foot? ... Mitosis.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="4">
@@ -6771,7 +6783,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 Why don't jews eat pussy? ... It's too close to the gas chamber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="7">
@@ -6926,7 +6938,13 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="4">
@@ -6941,7 +6959,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Why is it so hard to break up with a Japanese girlfriend? ... You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="7">
@@ -7096,7 +7114,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Never date a baker. They're too kneady.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="4">
@@ -7111,7 +7129,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. ... Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="7">
@@ -7266,7 +7284,8 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 What do Santa's little helpers learn at school? ... The elf-abet!
+</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="4">
@@ -7281,7 +7300,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 You see, mountains aren't just funny. ... They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="7">
@@ -7436,8 +7455,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="4">
@@ -7452,7 +7470,9 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="7">
@@ -7607,7 +7627,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 I'd tell you a joke about NAT but I would have to translate.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="4">
@@ -7622,7 +7642,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Where do sick cruise ships go to get healthy? ... The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="7">
@@ -7777,7 +7797,10 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="4">
@@ -7792,7 +7815,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What is the difference between acne and a catholic priest? ... Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="7">
@@ -7947,8 +7970,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="4">
@@ -7963,7 +7985,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="7">
@@ -8118,8 +8140,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 My employer came running to me and said, "I was looking for you all day! Where the hell have you been?" ... I replied, "Good employees are hard to find."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="4">
@@ -8134,7 +8155,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 Dark humor is like cancer. ... It's funnier when children get it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="7">
@@ -8289,7 +8310,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 A Roman walks into a bar and raises 2 fingers and says to the bartender... ... "Five beers, please."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="4">
@@ -8304,7 +8325,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="7">
@@ -8459,7 +8480,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 What is the most used language in programming? ... Profanity.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="4">
@@ -8474,7 +8495,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What is the difference between a pizza and a black man? ... A pizza can feed a family of five.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="7">
@@ -8629,7 +8650,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Why was the JavaScript developer sad? ... Because they didn't Node how to Express themself!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="4">
@@ -8644,7 +8665,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Oysters hate to give away their pearls because they are shellfish.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="7">
@@ -8799,7 +8820,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Yo mama is so old, she knew Burger King while he was still a prince.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="4">
@@ -8814,7 +8835,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="7">
@@ -8969,7 +8990,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 Do you know what killed the man who had a two ton pumpkin fall on him? ... He was squashed.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="4">
@@ -8984,7 +9005,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="7">
@@ -9139,8 +9160,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="4">
@@ -9155,7 +9175,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What do you call a kid with no arms and an eyepatch? ... Names.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="7">
@@ -9310,7 +9330,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 "99.9% of the people are dumb!" ... "Fortunately I belong to the remaining 1%"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="4">
@@ -9325,7 +9345,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 The past, the present and the future walk into a bar. ... It was tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="7">
@@ -9480,7 +9500,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Why is 6 afraid of 7 in hexadecimal Canada? ... Because 7 8 9 A?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="4">
@@ -9495,7 +9515,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="7">
@@ -9650,8 +9670,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="4">
@@ -9666,7 +9685,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Why did the banana go see a doctor? ... Because it wasn't peeling well.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="7">
@@ -9821,8 +9840,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Why did the database administrator leave his wife? ... She had one-to-many relationships.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="4">
@@ -9837,7 +9855,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 I'm reading a book about anti-gravity. It's impossible to put down!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="7">
@@ -9992,7 +10010,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why was the mushroom always invited to parties? ... Cause he's a fungi.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="4">
@@ -10007,7 +10025,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Why can't orphans play baseball? ... They don't know where home is.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="7">
@@ -10162,7 +10180,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 What did the cell say when his sister cell stepped on his foot? ... Mitosis.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="4">
@@ -10177,7 +10195,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 Why don't jews eat pussy? ... It's too close to the gas chamber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="7">
@@ -10332,7 +10350,13 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="4">
@@ -10347,7 +10371,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Why is it so hard to break up with a Japanese girlfriend? ... You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="7">
@@ -10502,7 +10526,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 Never date a baker. They're too kneady.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="4">
@@ -10517,7 +10541,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. ... Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="7">
@@ -10672,7 +10696,8 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 What do Santa's little helpers learn at school? ... The elf-abet!
+</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="4">
@@ -10687,7 +10712,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 You see, mountains aren't just funny. ... They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="7">
@@ -10842,8 +10867,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="4">
@@ -10858,7 +10882,9 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="7">
@@ -11013,7 +11039,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 I'd tell you a joke about NAT but I would have to translate.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="4">
@@ -11028,7 +11054,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Where do sick cruise ships go to get healthy? ... The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="7">
@@ -11183,7 +11209,10 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="4">
@@ -11198,7 +11227,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 What is the difference between acne and a catholic priest? ... Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="7">
@@ -11353,8 +11382,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="4">
@@ -11369,7 +11397,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="7">
@@ -11524,8 +11552,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 My employer came running to me and said, "I was looking for you all day! Where the hell have you been?" ... I replied, "Good employees are hard to find."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="4">
@@ -11540,7 +11567,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Dark humor is like cancer. ... It's funnier when children get it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="7">
@@ -11695,7 +11722,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 A Roman walks into a bar and raises 2 fingers and says to the bartender... ... "Five beers, please."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="4">
@@ -11710,7 +11737,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="7">
@@ -11865,7 +11892,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 What is the most used language in programming? ... Profanity.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="4">
@@ -11880,7 +11907,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 What is the difference between a pizza and a black man? ... A pizza can feed a family of five.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="7">
@@ -12035,7 +12062,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 Why was the JavaScript developer sad? ... Because they didn't Node how to Express themself!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="4">
@@ -12050,7 +12077,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 Oysters hate to give away their pearls because they are shellfish.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="7">
@@ -12205,7 +12232,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 Yo mama is so old, she knew Burger King while he was still a prince.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="4">
@@ -12220,7 +12247,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="7">
@@ -12375,7 +12402,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="3">
     <title>Camera 03: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😄 Do you know what killed the man who had a two ton pumpkin fall on him? ... He was squashed.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="4">
@@ -12390,7 +12417,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="6">
     <title>Camera 06: Morning Watch</title>
-    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Morning CCTV monitoring. | 😈 Did you hear about the cheese factory that exploded in France? ... There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="7">
@@ -12545,8 +12572,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="3">
     <title>Camera 03: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="4">
@@ -12561,7 +12587,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="6">
     <title>Camera 06: Perimeter Watch</title>
-    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Perimeter and access-point monitoring. | 😈 What do you call a kid with no arms and an eyepatch? ... Names.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="7">
@@ -12716,7 +12742,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="3">
     <title>Camera 03: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 Hey, wanna hear a joke? ... Parsing HTML with regex.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😄 "99.9% of the people are dumb!" ... "Fortunately I belong to the remaining 1%"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="4">
@@ -12731,7 +12757,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="6">
     <title>Camera 06: Live Surveillance</title>
-    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 Life's like my dick. ... The more children you have, the harder it gets.</desc>
+    <desc>🔴 LIVE • Continuous CCTV surveillance. | 😈 The past, the present and the future walk into a bar. ... It was tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="7">
@@ -12886,7 +12912,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="3">
     <title>Camera 03: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Why did the Python data scientist get arrested at customs? ... She was caught trying to import pandas!</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😄 Why is 6 afraid of 7 in hexadecimal Canada? ... Because 7 8 9 A?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="4">
@@ -12901,7 +12927,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="6">
     <title>Camera 06: Daytime Watch</title>
-    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a baby and a watermelon? ... One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+    <desc>🔴 LIVE • Daytime security monitoring. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="7">
@@ -13056,8 +13082,7 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="3">
     <title>Camera 03: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="4">
@@ -13072,7 +13097,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="6">
     <title>Camera 06: Activity Watch</title>
-    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 What did the customer say to the waiter? ... I'm all fed up with your service.</desc>
+    <desc>🔴 LIVE • General property and perimeter monitoring. | 😈 Why did the banana go see a doctor? ... Because it wasn't peeling well.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="7">
@@ -13227,8 +13252,7 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="3">
     <title>Camera 03: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😄 Why did the database administrator leave his wife? ... She had one-to-many relationships.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="4">
@@ -13243,7 +13267,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="6">
     <title>Camera 06: Afternoon Watch</title>
-    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 Why do Hong Kong cops like to go to work early? ... To beat the crowd.</desc>
+    <desc>🔴 LIVE • Afternoon CCTV monitoring. | 😈 I'm reading a book about anti-gravity. It's impossible to put down!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="7">
@@ -13398,7 +13422,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="3">
     <title>Camera 03: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😄 What is the best prefix for global variables? ... //</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😄 Why was the mushroom always invited to parties? ... Cause he's a fungi.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="4">
@@ -13413,7 +13437,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="6">
     <title>Camera 06: Evening Watch</title>
-    <desc>🔴 LIVE • Evening security monitoring. | 😈 Thank you student loans for getting me through college. ... I don't think I'll ever be able to repay you.</desc>
+    <desc>🔴 LIVE • Evening security monitoring. | 😈 Why can't orphans play baseball? ... They don't know where home is.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="7">
@@ -13568,7 +13592,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="3">
     <title>Camera 03: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 Two guys walked into a bar. ... The third guy ducked.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😄 What did the cell say when his sister cell stepped on his foot? ... Mitosis.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="4">
@@ -13583,7 +13607,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="6">
     <title>Camera 06: Night Watch</title>
-    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 What's the difference between a phone and a black person? ... A phone is actually useful.</desc>
+    <desc>🔴 LIVE • Night-time CCTV surveillance. | 😈 Why don't jews eat pussy? ... It's too close to the gas chamber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="7">
@@ -13738,7 +13762,13 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="3">
     <title>Camera 03: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😄 Why did the Romanian stop reading? ... They wanted to give the Bucharest.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😄 The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="4">
@@ -13753,7 +13783,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="6">
     <title>Camera 06: Late Night Watch</title>
-    <desc>🔴 LIVE • Late-night security monitoring. | 😈 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
+    <desc>🔴 LIVE • Late-night security monitoring. | 😈 Why is it so hard to break up with a Japanese girlfriend? ... You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="7">
@@ -13908,7 +13938,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="3">
     <title>Camera 03: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Why did the JavaScript heap close shop? ... It ran out of memory.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😄 Never date a baker. They're too kneady.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="4">
@@ -13923,7 +13953,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="6">
     <title>Camera 06: Overnight Watch</title>
-    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 To prove he was right, the flat-earther walked to the end of the Earth. ... He eventually came around.</desc>
+    <desc>🔴 LIVE • Overnight CCTV surveillance. | 😈 My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. ... Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="7">
@@ -14078,7 +14108,8 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="3">
     <title>Camera 03: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😄 I WRITE MY JOKES IN CAPITALS. ... THIS ONE WAS WRITTEN IN PARIS.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😄 What do Santa's little helpers learn at school? ... The elf-abet!
+</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="4">
@@ -14093,7 +14124,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="6">
     <title>Camera 06: Security Monitor</title>
-    <desc>🔴 LIVE • Continuous security monitoring. | 😈 I stayed up all night wondering where the sun went. ... Then it dawned on me.</desc>
+    <desc>🔴 LIVE • Continuous security monitoring. | 😈 You see, mountains aren't just funny. ... They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="7">
@@ -14248,8 +14279,7 @@ The barkeeper says: "For you... no charge!"</desc>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="3">
     <title>Camera 03: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?" ... But Argon doesn't react.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😄 I hate Russian matryoshka dolls. ... They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="4">
@@ -14264,7 +14294,9 @@ The barkeeper says "What would you like to drink?" ... But Argon doesn't react.<
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="6">
     <title>Camera 06: Pre-Dawn Watch</title>
-    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 What's the difference between a jew and a pizza? ... The pizza doesn't scream when you put it in the oven.</desc>
+    <desc>🔴 LIVE • Pre-dawn CCTV monitoring. | 😈 Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="7">
