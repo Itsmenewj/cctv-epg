@@ -1,3 +1,4 @@
+
 name: Update CCTV EPG
 
 on:
@@ -8,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: cctv-epg-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,6 +21,7 @@ jobs:
       - name: Get repository files
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
@@ -30,8 +36,34 @@ jobs:
         run: |
           git config user.name "CCTV EPG Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
+
           git add cctv-epg.xml
-          git diff --cached --quiet && exit 0
+
+          if git diff --cached --quiet; then
+            echo "EPG has no changes to commit."
+            exit 0
+          fi
+
           git commit -m "Update rolling CCTV EPG"
-          git push origin HEAD:main
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                echo "EPG successfully updated."
+                exit 0
+              fi
+
+              echo "Push failed; will retry."
+            else
+              echo "Rebase conflict detected."
+              git rebase --abort
+              exit 1
+            fi
+
+            sleep 2
+          done
+
+          echo "Failed to push after 3 attempts."
+          exit 1
