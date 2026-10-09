@@ -12,6 +12,7 @@ TZ = ZoneInfo("Europe/London")
 DAYS = 7
 OUTPUT_FILE = "cctv-epg.xml"
 
+# Generic reference point for the Hyndburn / Accrington area
 LATITUDE = 53.75
 LONGITUDE = -2.36
 
@@ -37,29 +38,29 @@ CHANNELS = {str(i): f"Camera {i:02d}" for i in range(1, 35)}
 
 # Offline fallback pools to guarantee channel content
 FALLBACK_CLEAN_JOKES = [
-    "😄 Why don't scientists trust atoms? Because they make up everything!",
-    "😄 What do you call a fake noodle? An impasta!",
-    "😄 Why did the scarecrow win an award? Because he was outstanding in his field!",
-    "😄 How does a penguin build its house? Igloos it together!",
-    "😄 Why don't skeletons fight each other? They don't have the guts.",
-    "😄 What do you call a belt made out of watches? A waist of time!",
+    "Why don't scientists trust atoms? Because they make up everything!",
+    "What do you call a fake noodle? An impasta!",
+    "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "How does a penguin build its house? Igloos it together!",
+    "Why don't skeletons fight each other? They don't have the guts.",
+    "What do you call a belt made out of watches? A waist of time!",
 ]
 
 FALLBACK_DARK_JOKES = [
-    "😈 I told my doctor that I broke my arm in two places. He told me to stop going to those places.",
-    "😈 My grandfather has the heart of a lion... and a lifetime ban from the zoo.",
-    "😈 Give a man a match, and he'll be warm for a minute. Set a man on fire, and he'll be warm for the rest of his life.",
-    "😈 You don't need a parachute to go skydiving. You only need a parachute to go skydiving twice.",
-    "😈 I built a model of Mount Everest and my son asked if it was to scale. I said no, it's to look at.",
+    "I told my doctor that I broke my arm in two places. He told me to stop going to those places.",
+    "My grandfather has the heart of a lion... and a lifetime ban from the zoo.",
+    "Give a man a match, and he'll be warm for a minute. Set a man on fire, and he'll be warm for the rest of his life.",
+    "You don't need a parachute to go skydiving. You only need a parachute to go skydiving twice.",
+    "I built a model of Mount Everest and my son asked if it was to scale. I said no, it's to look at.",
 ]
 
 FALLBACK_EVENTS = [
-    "📍 Accrington Market Hall: Local Produce & Artisan Market — Open 08:00 - 16:00",
-    "📍 Haworth Art Gallery: Europe's Largest Tiffany Glass Collection — Open 12:00 - 16:00",
-    "📍 Towneley Hall Burnley: Historic House & Parkland Walkways — Open Daily",
-    "📍 East Lancashire Railway: Heritage Steam Train Journeys (Rawtenstall to Bury)",
-    "📍 Oswaldtwistle Mills: Heritage Shopping Village & Gardens — Open 10:00 - 16:00",
-    "📍 Peel Park Accrington: Coppice Hill Walk & Panoramic Views — Public Access",
+    "Accrington Market Hall: Local Produce & Artisan Market — Open 08:00 - 16:00",
+    "Haworth Art Gallery: Europe's Largest Tiffany Glass Collection — Open 12:00 - 16:00",
+    "Towneley Hall Burnley: Historic House & Parkland Walkways — Open Daily",
+    "East Lancashire Railway: Heritage Steam Train Journeys (Rawtenstall to Bury)",
+    "Oswaldtwistle Mills: Heritage Shopping Village & Gardens — Open 10:00 - 16:00",
+    "Peel Park Accrington: Coppice Hill Walk & Panoramic Views — Public Access",
 ]
 
 
@@ -130,8 +131,8 @@ def get_local_news():
         return ["Local news feed currently offline."]
 
 
-def get_joke(category, emoji):
-    """Fetch individual jokes safely with full endpoint fallback handling."""
+def get_joke(category):
+    """Fetch individual jokes safely with fallback handling."""
     if category == "safe":
         url = "https://v2.jokeapi.dev/joke/Any?safe-mode"
     else:
@@ -143,9 +144,9 @@ def get_joke(category, emoji):
             raise ValueError(data.get("message", "API returned error"))
 
         if data.get("type") == "single":
-            return f"{emoji} {data.get('joke')}"
+            return data.get("joke")
         elif data.get("type") == "twopart":
-            return f"{emoji} {data.get('setup')} ... {data.get('delivery')}"
+            return f"{data.get('setup')} ... {data.get('delivery')}"
     except Exception as error:
         print(f"Joke fetch error ({category}): {error}")
 
@@ -159,7 +160,6 @@ def get_on_this_day(dt):
     """Fetch historical events for a given date from Wikipedia API."""
     try:
         url = f"{ON_THIS_DAY_URL}/{dt.month}/{dt.day}"
-        # Wikipedia requires a descriptive user agent string
         headers = {
             "User-Agent": "CCTV-EPG-Bot/1.0 (https://github.com/cctv-epg; contact@example.com)"
         }
@@ -169,7 +169,7 @@ def get_on_this_day(dt):
             year = item.get("year", "")
             text = item.get("text", "")
             if year and text:
-                events.append(f"📜 {year}: {text}")
+                events.append(f"{year}: {text}")
             if len(events) >= 20:
                 break
         if events:
@@ -178,17 +178,17 @@ def get_on_this_day(dt):
         print(f"On This Day API error for {dt.strftime('%B %d')}: {error}")
 
     return [
-        f"📜 {dt.strftime('%B %d')}: Historical records and events recorded across international archives."
+        f"{dt.strftime('%B %d')}: Historical events recorded across national archives."
     ]
 
 
 def weather_description(begin, forecast):
-    """Format hourly weather forecast into a clean standalone text string."""
+    """Format hourly weather forecast into a clean summary."""
     entries = [forecast.get(begin), forecast.get(begin + timedelta(hours=1))]
     entries = [entry for entry in entries if entry]
 
     if not entries:
-        return "🌤️ Local Weather: Conditions variable across region."
+        return "Conditions variable across region."
 
     conditions = {
         0: "Clear",
@@ -230,7 +230,7 @@ def weather_description(begin, forecast):
     )
     condition = conditions.get(entries[0]["code"], "Variable conditions")
 
-    return f"🌤️ Local Weather: {condition}; {temperature_text}; {rain_text}."
+    return f"{condition}; {temperature_text}; {rain_text}."
 
 
 def xml_time(dt):
@@ -248,9 +248,8 @@ def generate():
     forecast = get_weather()
     news_list = get_local_news()
 
-    # Pre-populate dynamic joke arrays for all 84 time slots
-    clean_jokes = [get_joke("safe", "😄") for _ in range(20)]
-    dark_jokes = [get_joke("dark", "😈") for _ in range(20)]
+    clean_jokes = [get_joke("safe") for _ in range(20)]
+    dark_jokes = [get_joke("dark") for _ in range(20)]
 
     on_this_day_cache = {}
 
@@ -284,31 +283,29 @@ def generate():
             slot_index = (day * len(SLOTS)) + slot
 
             current_weather = weather_description(begin, forecast)
-            current_news = f"📰 Local News: {news_list[slot_index % len(news_list)]}"
+            current_news = news_list[slot_index % len(news_list)]
             current_event = FALLBACK_EVENTS[slot_index % len(FALLBACK_EVENTS)]
             current_clean_joke = clean_jokes[slot_index % len(clean_jokes)]
             current_dark_joke = dark_jokes[slot_index % len(dark_jokes)]
             current_history = day_history[slot_index % len(day_history)]
 
             for channel_id, name in CHANNELS.items():
-                extra = []
+                lines_list = ["🔴 LIVE", description]
 
                 if channel_id == "1":
-                    extra.append(current_weather)
+                    lines_list.append(f"🌤️ WEATHER: {current_weather}")
+                    lines_list.append(f"📰 NEWS: {current_news}")
                 elif channel_id == "2":
-                    extra.append(current_event)
+                    lines_list.append(f"📍 LOCAL EVENTS: {current_event}")
                 elif channel_id == "3":
-                    extra.append(current_clean_joke)
+                    lines_list.append(f"😄 CLEAN JOKE: {current_clean_joke}")
                 elif channel_id == "4":
-                    extra.append(current_history)
+                    lines_list.append(f"📜 ON THIS DAY: {current_history}")
                 elif channel_id == "5":
-                    extra.append(current_news)
-                elif channel_id == "6":
-                    extra.append(current_dark_joke)
+                    lines_list.append(f"😈 DARK HUMOUR: {current_dark_joke}")
 
-                full_description = description
-                if extra:
-                    full_description += " | " + " | ".join(extra)
+                # Join lines with newlines so TV clients render each section on its own line
+                full_description = "\n".join(lines_list)
 
                 lines.extend(
                     [
@@ -317,11 +314,7 @@ def generate():
                             f'stop="{xml_time(end)}" channel="{channel_id}">'
                         ),
                         f'    <title>{escape(name + ": " + title)}</title>',
-                        (
-                            "    <desc>"
-                            f'{escape("🔴 LIVE • " + full_description)}'
-                            "</desc>"
-                        ),
+                        f"    <desc>{escape(full_description)}</desc>",
                         "    <category>CCTV</category>",
                         "  </programme>",
                     ]
