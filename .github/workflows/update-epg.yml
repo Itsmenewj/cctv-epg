@@ -63,4 +63,3 @@ jobs:
           done
           echo "Failed to push after 3 attempts."
           exit 1
-```
