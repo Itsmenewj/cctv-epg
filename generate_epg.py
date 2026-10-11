@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-"""
-Lancashire CCTV EPG generator
-- Removes all joke content and JokeAPI/cache dependencies.
-- Keeps 34 existing channel IDs and adds channel 35: Handley Aerials.
-- Adds Lancashire news, weather, upcoming events with published dates/times,
-  historical items, and Handley Aerials contact/services information.
-"""
+
 import json
 import re
 import html
@@ -164,7 +157,6 @@ def parse_datetime(value):
         return None
     try:
         value = value.strip()
-        # Support ISO date-times with Z and offsets.
         dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=TZ)
@@ -212,30 +204,21 @@ def get_upcoming_events(now):
                 if not name or not start or start < now:
                     continue
                 location = item.get("location", {})
+                place = ""
                 if isinstance(location, dict):
                     place = clean_text(location.get("name", ""))
                     address = location.get("address", {})
                     if isinstance(address, dict):
                         locality = clean_text(address.get("addressLocality", ""))
-                        if not place:
-                            place = locality
-                else:
-                    place = ""
-                # Avoid listings clearly outside Lancashire unless their location is absent.
-                region_text = (place + " " + clean_text(item.get("description", ""))).casefold()
-                if place and not any(word in region_text for word in (
-                    "lancashire", "blackburn", "burnley", "preston", "lancaster",
-                    "blackpool", "colne", "nelson", "clitheroe", "chorley",
-                    "leyland", "fleetwood", "lytham", "rossendale", "pendle",
-                    "wyre", "fylde", "ribble", "hy nd burn".replace(" ", "")
-                )):
-                    # Keep the event if the publisher identifies it as a Visit Lancashire listing.
-                    continue
+                        if locality:
+                            place = f"{place}, {locality}" if place else locality
+                
                 when = start.strftime("%a %d %b %Y, %H:%M")
                 if end and (end.date() == start.date()) and end != start:
                     when += "–" + end.strftime("%H:%M")
-                elif not item.get("startDate", "").find("T") >= 0:
+                elif not ("T" in item.get("startDate", "")):
                     when = start.strftime("%a %d %b %Y") + " (time not listed)"
+                
                 description = clean_text(item.get("description", ""))
                 text = f"{name} — {when}"
                 if place:
@@ -243,6 +226,7 @@ def get_upcoming_events(now):
                 if description and len(description) < 180:
                     text += f" — {description}"
                 events.append((start, text))
+                
         events.sort(key=lambda pair: pair[0])
         unique = unique_texts(text for _, text in events)
         if unique:
@@ -288,7 +272,6 @@ def handley_description(slot_title, slot_description, slot_index):
         "WEBSITE: https://handley-aerials.uk.com/",
         "Call 📞 01282 861631 for advice, service information or to arrange an appointment.",
     ]
-    # Rotate the first line of focus so each two-hour listing has useful variation.
     rotations = [
         "TV aerial installation, signal checks and aerial repairs.",
         "Satellite TV, Sky, Freesat and Freeview systems.",
@@ -351,6 +334,8 @@ def generate():
                     description_lines.extend([
                         f"🌤️ LANCASHIRE WEATHER: {current_weather}",
                         f"📰 LANCASHIRE NEWS: {current_news}",
+                        "📞 HANDLEY AERIALS:",
+                        handley_description(title, description, slot_index),
                     ])
                 elif channel_id == "2":
                     description_lines.append(f"📅 UPCOMING LANCASHIRE EVENT: {current_event}")
