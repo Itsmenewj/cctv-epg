@@ -30,8 +30,8 @@ PICON_URL = (
     "Itsmenewj/cctv-epg/main/picons/cctv.png"
 )
 
-CHANNELS = {str(i): f"Camera {i:02d}" for i in range(1, 35)}
-CHANNELS["35"] = "Handley Aerials"
+# 35 CCTV Channels (Camera 01 to Camera 35)
+CHANNELS = {str(i): f"Camera {i:02d}" for i in range(1, 36)}
 
 SLOTS = [
     ("Morning Watch", "Morning CCTV monitoring."),
@@ -176,17 +176,17 @@ def flatten_jsonld(node):
 
 def get_upcoming_events(now):
     """
-    Read public Event JSON-LD where available. Only retain future events.
-    Event times are shown only when the source publishes them; date-only
-    events are explicitly labelled 'time not listed'.
+    Parses events from Visit Lancashire using both JSON-LD and HTML fallback.
     """
     try:
         page = fetch_bytes(VISIT_LANCASHIRE_EVENTS_URL).decode("utf-8", "replace")
+        events = []
+        
+        # Method 1: JSON-LD Extraction
         scripts = re.findall(
             r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
             page, flags=re.I | re.S
         )
-        events = []
         for raw in scripts:
             try:
                 data = json.loads(html.unescape(raw.strip()))
@@ -203,6 +203,7 @@ def get_upcoming_events(now):
                 end = parse_datetime(item.get("endDate"))
                 if not name or not start or start < now:
                     continue
+                
                 location = item.get("location", {})
                 place = ""
                 if isinstance(location, dict):
@@ -216,7 +217,7 @@ def get_upcoming_events(now):
                 when = start.strftime("%a %d %b %Y, %H:%M")
                 if end and (end.date() == start.date()) and end != start:
                     when += "–" + end.strftime("%H:%M")
-                elif not ("T" in item.get("startDate", "")):
+                elif not ("T" in str(item.get("startDate", ""))):
                     when = start.strftime("%a %d %b %Y") + " (time not listed)"
                 
                 description = clean_text(item.get("description", ""))
@@ -226,13 +227,25 @@ def get_upcoming_events(now):
                 if description and len(description) < 180:
                     text += f" — {description}"
                 events.append((start, text))
-                
+
+        # Method 2: HTML Pattern extraction if JSON-LD is absent/empty
+        if not events:
+            matches = re.findall(
+                r'class="[^"]*event[^"]*"[^>]*>.*?<h[2-4][^>]*>(.*?)</h[2-4]>.*?Dates?:?\s*([^<]+)',
+                page, flags=re.I | re.S
+            )
+            for title, dates in matches:
+                title_text = clean_text(title)
+                dates_text = clean_text(dates)
+                if title_text:
+                    events.append((now, f"{title_text} — {dates_text}"))
+
         events.sort(key=lambda pair: pair[0])
         unique = unique_texts(text for _, text in events)
         if unique:
             print(f"Loaded {len(unique)} upcoming Lancashire events.")
             return unique
-        print("No upcoming Event JSON-LD found on Visit Lancashire page.")
+        print("No upcoming events extracted from Visit Lancashire page.")
     except Exception as error:
         print(f"Upcoming events feed unavailable: {error}")
     return FALLBACK_EVENTS
@@ -329,36 +342,40 @@ def generate():
             current_history = day_history[slot_index % len(day_history)]
 
             for channel_id, name in CHANNELS.items():
+                programme_title = f"{name}: {title}"
                 description_lines = ["🔴 LIVE CCTV", description]
+
                 if channel_id == "1":
+                    # Camera 01: Handley Aerials + Weather + News
+                    description_lines.extend([
+                        "📞 HANDLEY AERIALS — CONTACT & SERVICES",
+                        handley_description(title, description, slot_index),
+                        f"🌤️ LANCASHIRE WEATHER: {current_weather}",
+                        f"📰 LANCASHIRE NEWS: {current_news}",
+                    ])
+                elif channel_id == "2":
+                    # Camera 02: Weather + News
                     description_lines.extend([
                         f"🌤️ LANCASHIRE WEATHER: {current_weather}",
                         f"📰 LANCASHIRE NEWS: {current_news}",
-                        "📞 HANDLEY AERIALS:",
-                        handley_description(title, description, slot_index),
                     ])
-                elif channel_id == "2":
-                    description_lines.append(f"📅 UPCOMING LANCASHIRE EVENT: {current_event}")
                 elif channel_id == "3":
-                    description_lines.append(f"📍 LANCASHIRE WHAT'S ON: {current_event}")
+                    # Camera 03: Upcoming Lancashire Events
+                    description_lines.append(f"📅 UPCOMING LANCASHIRE EVENT: {current_event}")
                 elif channel_id == "4":
-                    description_lines.append(f"📜 ON THIS DAY: {current_history}")
+                    # Camera 04: What's On
+                    description_lines.append(f"📍 LANCASHIRE WHAT'S ON: {current_event}")
                 elif channel_id == "5":
+                    # Camera 05: History
+                    description_lines.append(f"📜 ON THIS DAY: {current_history}")
+                elif channel_id == "6":
+                    # Camera 06: News & Events
                     description_lines.extend([
                         f"📰 LANCASHIRE NEWS: {current_news}",
                         f"📅 UPCOMING EVENT: {current_event}",
                     ])
-                elif channel_id == "35":
-                    description_lines = [
-                        "📞 HANDLEY AERIALS — CONTACT & SERVICES",
-                        handley_description(title, description, slot_index),
-                    ]
 
                 full_description = "\n".join(description_lines)
-                programme_title = (
-                    f"Handley Aerials: {title}" if channel_id == "35"
-                    else f"{name}: {title}"
-                )
                 lines.extend([
                     f'  <programme start="{xml_time(begin)}" stop="{xml_time(finish)}" channel="{xml_safe(channel_id)}">',
                     f'    <title>{xml_safe(programme_title)}</title>',
