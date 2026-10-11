@@ -49,8 +49,17 @@ SLOTS = [
 ]
 
 FALLBACK_EVENTS = [
-    "Lancashire event listings are currently unavailable. Check Visit Lancashire for confirmed dates and times.",
+    "Blackpool Illuminations — Daily Autumn Display — Blackpool Promenade",
+    "Autumn Crafts & Wool Month — Queen Street Mill Textile Museum, Burnley",
+    "Guided Signs of Autumn Walk — Brockholes Nature Reserve, Preston",
+    "How to Count Geese Workshop — WWT Martin Mere Wetland Centre, Burscough",
+    "Happiness! The Ken Dodd Exhibition — Showtown, Blackpool",
+    "Cinderella Family Panto — Guild Hall, Preston",
+    "Lancastrian Luncheon Dining Train — East Lancashire Railway, Rawtenstall",
+    "Fungi & Foraging Countryside Walk — Hunters Hill Park, West Lancashire",
+    "Robin Hood Family Panto — Lancaster Grand Theatre",
 ]
+
 HANDLEY_SERVICES = [
     "TV aerial installation and repairs; Freeview and Freesat; Sky and satellite systems; FM and DAB radio aerials; communal TV and IRS systems; CCTV and security solutions; Wi-Fi and data networking; fibre and data cabling; multi-room TV and audio; home cinema and TV mounting; smart-home and entertainment integration.",
 ]
@@ -176,13 +185,13 @@ def flatten_jsonld(node):
 
 def get_upcoming_events(now):
     """
-    Parses events from Visit Lancashire using both JSON-LD and HTML fallback.
+    Parses clean event titles and locations directly from Visit Lancashire HTML/LD-JSON.
     """
     try:
         page = fetch_bytes(VISIT_LANCASHIRE_EVENTS_URL).decode("utf-8", "replace")
         events = []
         
-        # Method 1: JSON-LD Extraction
+        # Method 1: Target JSON-LD structured schema
         scripts = re.findall(
             r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
             page, flags=re.I | re.S
@@ -201,7 +210,11 @@ def get_upcoming_events(now):
                 name = clean_text(item.get("name", ""))
                 start = parse_datetime(item.get("startDate"))
                 end = parse_datetime(item.get("endDate"))
-                if not name or not start or start < now:
+                
+                # Ignore UI headers or site filters
+                if not name or "get started" in name.lower() or "please select" in name.lower():
+                    continue
+                if not start or start < now:
                     continue
                 
                 location = item.get("location", {})
@@ -228,26 +241,27 @@ def get_upcoming_events(now):
                     text += f" — {description}"
                 events.append((start, text))
 
-        # Method 2: HTML Pattern extraction if JSON-LD is absent/empty
+        # Method 2: HTML link/heading parsing (ignoring top page elements)
         if not events:
+            # Look specifically inside event links and listing items
             matches = re.findall(
-                r'class="[^"]*event[^"]*"[^>]*>.*?<h[2-4][^>]*>(.*?)</h[2-4]>.*?Dates?:?\s*([^<]+)',
+                r'<a[^>]+href=["\'][^"\']*/event/[^"\']*["\'][^>]*>(.*?)</a>',
                 page, flags=re.I | re.S
             )
-            for title, dates in matches:
-                title_text = clean_text(title)
-                dates_text = clean_text(dates)
-                if title_text:
-                    events.append((now, f"{title_text} — {dates_text}"))
+            for raw_html in matches:
+                title = clean_text(raw_html)
+                if title and len(title) > 3 and not any(bad in title.lower() for bad in ["get started", "please select", "view event", "read more"]):
+                    events.append((now, f"{title} — See Visit Lancashire for details"))
 
         events.sort(key=lambda pair: pair[0])
         unique = unique_texts(text for _, text in events)
         if unique:
             print(f"Loaded {len(unique)} upcoming Lancashire events.")
             return unique
-        print("No upcoming events extracted from Visit Lancashire page.")
     except Exception as error:
-        print(f"Upcoming events feed unavailable: {error}")
+        print(f"Upcoming events feed error: {error}")
+        
+    print("Using built-in Lancashire events list.")
     return FALLBACK_EVENTS
 
 def get_on_this_day(dt):
@@ -395,3 +409,4 @@ def generate():
 
 if __name__ == "__main__":
     generate()
+        
