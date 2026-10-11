@@ -2,105 +2,139 @@
 <tv generator-info-name="Reusable CCTV EPG" source-info-name="CCTV EPG">
   <channel id="1">
     <display-name>Camera 01</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="2">
     <display-name>Camera 02</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="3">
     <display-name>Camera 03</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="4">
     <display-name>Camera 04</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="5">
     <display-name>Camera 05</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="6">
     <display-name>Camera 06</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="7">
     <display-name>Camera 07</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="8">
     <display-name>Camera 08</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="9">
     <display-name>Camera 09</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="10">
     <display-name>Camera 10</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="11">
     <display-name>Camera 11</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="12">
     <display-name>Camera 12</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="13">
     <display-name>Camera 13</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="14">
     <display-name>Camera 14</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="15">
     <display-name>Camera 15</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="16">
     <display-name>Camera 16</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="17">
     <display-name>Camera 17</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="18">
     <display-name>Camera 18</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="19">
     <display-name>Camera 19</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="20">
     <display-name>Camera 20</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="21">
     <display-name>Camera 21</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="22">
     <display-name>Camera 22</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="23">
     <display-name>Camera 23</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="24">
     <display-name>Camera 24</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="25">
     <display-name>Camera 25</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="26">
     <display-name>Camera 26</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="27">
     <display-name>Camera 27</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="28">
     <display-name>Camera 28</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="29">
     <display-name>Camera 29</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="30">
     <display-name>Camera 30</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="31">
     <display-name>Camera 31</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="32">
     <display-name>Camera 32</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="33">
     <display-name>Camera 33</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <channel id="34">
     <display-name>Camera 34</display-name>
+    <icon src="https://raw.githubusercontent.com/Itsmenewj/cctv-epg/main/picons/cctv.png"/>
   </channel>
   <programme start="20261008060000 +0100" stop="20261008080000 +0100" channel="1">
     <title>Camera 01: Morning Watch</title>
@@ -121,7 +155,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: A SQL statement walks into a bar and sees two tables. It approaches, and asks "may I join you?"</desc>
+😄 CLEAN JOKE: Thank you student loans for getting me through college. I don't think I'll ever be able to repay you.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008060000 +0100" stop="20261008080000 +0100" channel="4">
@@ -135,7 +169,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: I walked into a bar once. It really hurt my head.</desc>
+😈 DARK HUMOUR: Jokes about anti-vaxxer parents never get old. Just like their kids.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008060000 +0100" stop="20261008080000 +0100" channel="6">
@@ -317,7 +351,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008080000 +0100" stop="20261008100000 +0100" channel="2">
@@ -331,7 +365,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: Why is crucified Jesus always depicted with six-pack abs? He did CrossFit.</desc>
+😄 CLEAN JOKE: What kind of motorbike does Santa ride? A Holly Davidson!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008080000 +0100" stop="20261008100000 +0100" channel="4">
@@ -345,7 +379,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: Two peanuts were walking. One was assaulted.</desc>
+😈 DARK HUMOUR: I have a fear of speed bumps, but I'm slowly getting over it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008080000 +0100" stop="20261008100000 +0100" channel="6">
@@ -527,7 +561,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008100000 +0100" stop="20261008120000 +0100" channel="2">
@@ -541,7 +575,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: "Honey, go to the store and buy some eggs." "OK." "Oh and while you're there, get some milk." He never returned.</desc>
+😄 CLEAN JOKE: What time did the man go to the dentist? Tooth hurt-y.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008100000 +0100" stop="20261008120000 +0100" channel="4">
@@ -555,7 +589,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: What's the difference between a jew and a pizza? The pizza doesn't scream when you put it in the oven.</desc>
+😈 DARK HUMOUR: I started a company selling land mines disguised as prayer mats. Prophets are going through the roof.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008100000 +0100" stop="20261008120000 +0100" channel="6">
@@ -737,7 +771,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008120000 +0100" stop="20261008140000 +0100" channel="2">
@@ -751,7 +785,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: What do you call a kid with no arms and an eyepatch? Names.</desc>
+😄 CLEAN JOKE: My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008120000 +0100" stop="20261008140000 +0100" channel="4">
@@ -765,7 +799,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: Why did the Romanian stop reading? They wanted to give the Bucharest.</desc>
+😈 DARK HUMOUR: What do you call a deer with no eyes? No eye deer.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008120000 +0100" stop="20261008140000 +0100" channel="6">
@@ -947,7 +981,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008140000 +0100" stop="20261008160000 +0100" channel="2">
@@ -961,7 +995,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What happened to the man who got behind on payments to his exorcist? He got repossessed.</desc>
+😄 CLEAN JOKE: What's the most notable similarity between a pedophile and a roller coaster? They both make a child scream, but the first ride's never the last</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008140000 +0100" stop="20261008160000 +0100" channel="4">
@@ -975,7 +1009,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: Two guys walked into a bar. The third guy ducked.</desc>
+😈 DARK HUMOUR: Has COVID-19 forced you to wear glasses and a mask at the same time? If so, you may be entitled to condensation.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008140000 +0100" stop="20261008160000 +0100" channel="6">
@@ -1157,7 +1191,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008160000 +0100" stop="20261008180000 +0100" channel="2">
@@ -1171,7 +1205,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: Why does Santa go down the chimney? Because it soots him!</desc>
+😄 CLEAN JOKE: How do you generate a random string? Put a Windows user in front of Vim and tell them to exit.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008160000 +0100" stop="20261008180000 +0100" channel="4">
@@ -1185,7 +1219,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: To prove he was right, the flat-earther walked to the end of the Earth. He eventually came around.</desc>
+😈 DARK HUMOUR: Dark humor is like food, not everyone gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008160000 +0100" stop="20261008180000 +0100" channel="6">
@@ -1367,7 +1401,7 @@ Afternoon CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008180000 +0100" stop="20261008200000 +0100" channel="2">
@@ -1381,7 +1415,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: Why did the cookie go to hospital? It felt crummy.</desc>
+😄 CLEAN JOKE: Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008180000 +0100" stop="20261008200000 +0100" channel="4">
@@ -1395,7 +1429,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: I was going to tell a dead baby joke. But I decided to abort.</desc>
+😈 DARK HUMOUR: What's the difference between Harry Potter and the jews? Harry escaped the chamber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008180000 +0100" stop="20261008200000 +0100" channel="6">
@@ -1577,7 +1611,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008200000 +0100" stop="20261008220000 +0100" channel="2">
@@ -1591,7 +1625,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: Why was the mushroom always invited to parties? Cause he's a fungi.</desc>
+😄 CLEAN JOKE: I WRITE MY JOKES IN CAPITALS. THIS ONE WAS WRITTEN IN PARIS.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008200000 +0100" stop="20261008220000 +0100" channel="4">
@@ -1605,7 +1639,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: The future, the present and the past walked into a bar. Things got tense.</desc>
+😈 DARK HUMOUR: I have these weird muscle spasms in my gluteus maximus. I figured out from my doctor that everything was alright: He said "Weird flex, butt okay."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008200000 +0100" stop="20261008220000 +0100" channel="6">
@@ -1787,7 +1821,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008220000 +0100" stop="20261009000000 +0100" channel="2">
@@ -1801,7 +1835,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Algorithm: A word used by programmers when they don't want to explain how their code works.</desc>
+😄 CLEAN JOKE: A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn't.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008220000 +0100" stop="20261009000000 +0100" channel="4">
@@ -1815,7 +1849,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: I have these weird muscle spasms in my gluteus maximus. I figured out from my doctor that everything was alright: He said "Weird flex, butt okay."</desc>
+😈 DARK HUMOUR: Two guys walked into a bar. The third guy ducked.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261008220000 +0100" stop="20261009000000 +0100" channel="6">
@@ -1997,7 +2031,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009000000 +0100" stop="20261009020000 +0100" channel="2">
@@ -2011,7 +2045,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: How did Harry Potter get down the hill? Walking... JK, Rolling.</desc>
+😄 CLEAN JOKE: What do you call cheese that isn't yours? Nacho cheese.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009000000 +0100" stop="20261009020000 +0100" channel="4">
@@ -2025,7 +2059,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: What did one necrophiliac tell the other necrophiliac after work? "Let's go have a couple of cold ones!"</desc>
+😈 DARK HUMOUR: My grief counsellor died. He was so good, I don't even care.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009000000 +0100" stop="20261009020000 +0100" channel="6">
@@ -2221,7 +2255,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</desc>
+😄 CLEAN JOKE: What's the difference between Jesus and a hooker? The look on their face when you are nailing them.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009020000 +0100" stop="20261009040000 +0100" channel="4">
@@ -2235,7 +2269,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: I wanted to learn how to make ice, but I lost interest.</desc>
+😈 DARK HUMOUR: My wife divorced me so I stole her wheelchair. Guess who came crawling back.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009020000 +0100" stop="20261009040000 +0100" channel="6">
@@ -2417,7 +2451,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009040000 +0100" stop="20261009060000 +0100" channel="2">
@@ -2431,7 +2465,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: This morning I accidentally made my coffee with Red Bull instead of water. I was already on the highway when I noticed I forgot my car at home.</desc>
+😄 CLEAN JOKE: Why was the calendar nervous? Its days were numbered.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009040000 +0100" stop="20261009060000 +0100" channel="4">
@@ -2445,7 +2479,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
+😈 DARK HUMOUR: Muslim women are horrible competitors. No matter what they do, they always get beat.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009040000 +0100" stop="20261009060000 +0100" channel="6">
@@ -2641,7 +2675,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: What do elves post on Social Media? Elf-ies!</desc>
+😄 CLEAN JOKE: What's the difference between England and a tea bag? The tea bag stays in the cup longer.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="4">
@@ -2655,7 +2689,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: I just saw my wife trip over and drop a basket full of ironed clothes. I watched it all unfold.</desc>
+😈 DARK HUMOUR: What do you call a cow with no legs? Ground beef.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009060000 +0100" stop="20261009080000 +0100" channel="6">
@@ -2851,7 +2885,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: What's the object-oriented way to become wealthy? Inheritance.</desc>
+😄 CLEAN JOKE: Why did the Romanian stop reading? They wanted to give the Bucharest.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="4">
@@ -2865,7 +2899,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: How does a black woman fight crime? She has an abortion.</desc>
+😈 DARK HUMOUR: I have a fish that can breakdance! Only for 20 seconds though, and only once.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009080000 +0100" stop="20261009100000 +0100" channel="6">
@@ -3047,7 +3081,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="2">
@@ -3061,7 +3095,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Why did the programmer jump on the table? Because debug was on his screen.</desc>
+😄 CLEAN JOKE: What is the difference between acne and a catholic priest? Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="4">
@@ -3075,7 +3109,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: Nowadays people are so sensitive, you can't even say "black paint" anymore. Instead, you have to say "Jamal, please paint the fence".</desc>
+😈 DARK HUMOUR: Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009100000 +0100" stop="20261009120000 +0100" channel="6">
@@ -3257,7 +3291,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="2">
@@ -3271,7 +3305,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: Why was the broom late? It swept in.</desc>
+😄 CLEAN JOKE: What do you call a fake noodle? An impasta!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="4">
@@ -3285,7 +3319,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: Jokes about anti-vaxxer parents never get old. Just like their kids.</desc>
+😈 DARK HUMOUR: I hate Russian matryoshka dolls. They're so full of themselves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009120000 +0100" stop="20261009140000 +0100" channel="6">
@@ -3467,7 +3501,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="2">
@@ -3481,7 +3515,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: Where do sick cruise ships go to get healthy? The dock!</desc>
+😄 CLEAN JOKE: Why did the golfer bring two pairs of trousers? In case he got a hole in one.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="4">
@@ -3495,7 +3529,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: Hey girl are you a school? Because I want to shoot some kids up inside of you.</desc>
+😈 DARK HUMOUR: I used to be addicted to soap, but I'm clean now.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009140000 +0100" stop="20261009160000 +0100" channel="6">
@@ -3677,7 +3711,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="2">
@@ -3691,7 +3725,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: What do an orgasm and a pulse have in common? I don't care if she has one.</desc>
+😄 CLEAN JOKE: A perfectionist walked into a bar... apparently, the bar was not set high enough.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="4">
@@ -3705,7 +3739,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: My grief counsellor died. He was so good, I don't even care.</desc>
+😈 DARK HUMOUR: You don't need a parachute to go skydiving. You only need one to go skydiving twice.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009160000 +0100" stop="20261009180000 +0100" channel="6">
@@ -3887,7 +3921,7 @@ Afternoon CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="2">
@@ -3901,7 +3935,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: How do you generate a random string? Put a Windows user in front of Vim and tell them to exit.</desc>
+😄 CLEAN JOKE: Why did the ghost go to the bar? To get sheet faced.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="4">
@@ -3915,7 +3949,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: Dark humor is like food, not everyone gets it.</desc>
+😈 DARK HUMOUR: I just got fired from my job at the keyboard factory. They told me I wasn't putting in enough shifts.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009180000 +0100" stop="20261009200000 +0100" channel="6">
@@ -4097,7 +4131,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="2">
@@ -4111,7 +4145,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: What part of a vegetable are you not supposed to eat? The wheelchair.</desc>
+😄 CLEAN JOKE: Why did the stadium get hot? All the fans left.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="4">
@@ -4125,7 +4159,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."</desc>
+😈 DARK HUMOUR: I asked the undertaker for a discount. He said business was dead.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009200000 +0100" stop="20261009220000 +0100" channel="6">
@@ -4307,7 +4341,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="2">
@@ -4321,7 +4355,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Say what you want about pedophiles... But at least they drive slowly through the school zones.</desc>
+😄 CLEAN JOKE: What kind of shoes do ninjas wear? Sneakers.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="4">
@@ -4335,7 +4369,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: Did you hear about the cheese factory that exploded in France? There was nothing but de brie.</desc>
+😈 DARK HUMOUR: To prove he was right, the flat-earther walked to the end of the Earth. He eventually came around.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261009220000 +0100" stop="20261010000000 +0100" channel="6">
@@ -4517,7 +4551,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="2">
@@ -4531,7 +4565,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: Why did the tomato blush? It saw the salad dressing.</desc>
+😄 CLEAN JOKE: Why did the koala get rejected? Because he did not have any koalafication.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="4">
@@ -4545,7 +4579,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: Which part of the hospital has the least privacy? The ICU.</desc>
+😈 DARK HUMOUR: What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle? Attire.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010000000 +0100" stop="20261010020000 +0100" channel="6">
@@ -4727,7 +4761,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="2">
@@ -4741,7 +4775,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: What is the difference between the Constitutions of the USA and the USSR? Don't both of them guarantee freedom of speech? Yes, but the Constitution of the USA also guarantees freedom after the speech.</desc>
+😄 CLEAN JOKE: What do you call a dinosaur with an extensive vocabulary? A thesaurus.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="4">
@@ -4755,7 +4789,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: What do you call a deaf gynecologist? A lip reader.</desc>
+😈 DARK HUMOUR: What kind of car did Whitney Houston drive? A Hyundaiiiiiiiiiiii</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010020000 +0100" stop="20261010040000 +0100" channel="6">
@@ -4951,7 +4985,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: What is the best prefix for global variables? //</desc>
+😄 CLEAN JOKE: Who hides in the bakery at Christmas? A mince spy!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="4">
@@ -4965,7 +4999,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: I told my suitcase there would be no holidays this year. Now I'm dealing with emotional baggage.</desc>
+😈 DARK HUMOUR: My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010040000 +0100" stop="20261010060000 +0100" channel="6">
@@ -5147,7 +5181,7 @@ Pre-dawn CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="2">
@@ -5161,7 +5195,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: I can't believe I got fired from the calendar factory. All I did was take a day off.</desc>
+😄 CLEAN JOKE: What did the cannibal do after he dumped his girlfriend? He wiped his ass.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="4">
@@ -5175,7 +5209,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: My grandfather says I'm too reliant on technology. I called him a hypocrite and unplugged his life support.</desc>
+😈 DARK HUMOUR: Why did the banana go see a doctor? Because it wasn't peeling well.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010060000 +0100" stop="20261010080000 +0100" channel="6">
@@ -5371,7 +5405,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: What do you tell a woman with 2 black eyes? Nothing. You already told her twice.</desc>
+😄 CLEAN JOKE: Why does the size of the snack not matter to a giraffe? Because even a little bit goes a long way.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="4">
@@ -5385,7 +5419,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: How much did your chimney cost? Nothing, it was on the house.</desc>
+😈 DARK HUMOUR: Why did the koala get rejected? Because he did not have any koalafication.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010080000 +0100" stop="20261010100000 +0100" channel="6">
@@ -5581,7 +5615,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Arguing with a woman is like reading a software's license agreement. In the end you ignore everything and click "I agree".</desc>
+😄 CLEAN JOKE: 9/11 jokes are not funny. The other 2 though, are hilarious!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="4">
@@ -5595,7 +5629,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: What do Ted Bundy and the Space Shuttle Columbia have in common? They both left bodies in four states.</desc>
+😈 DARK HUMOUR: My first high-school football game was a lot like my first time having sex. I was bloody and sore at the end, but at least my dad came.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010100000 +0100" stop="20261010120000 +0100" channel="6">
@@ -5777,7 +5811,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="2">
@@ -5791,7 +5825,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: Why don't scientists trust atoms? Because they make up everything!</desc>
+😄 CLEAN JOKE: The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="4">
@@ -5805,7 +5839,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: My girlfriend left me because I have a fetish for touching pasta. I'm feeling cannelloni now. :'(</desc>
+😈 DARK HUMOUR: What did one necrophiliac tell the other necrophiliac after work? "Let's go have a couple of cold ones!"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010120000 +0100" stop="20261010140000 +0100" channel="6">
@@ -5987,7 +6021,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="2">
@@ -6001,7 +6035,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What do you call a bird sitting with their legs spread? A prostitweety.</desc>
+😄 CLEAN JOKE: Why do front end developers eat lunch alone? Because they don't know how to join tables.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="4">
@@ -6015,7 +6049,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: I hate Russian matryoshka dolls. They're so full of themselves.</desc>
+😈 DARK HUMOUR: How does a black woman fight crime? She has an abortion.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010140000 +0100" stop="20261010160000 +0100" channel="6">
@@ -6197,7 +6231,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="2">
@@ -6211,7 +6245,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: I used to love to tell dad jokes. Dad, come back...</desc>
+😄 CLEAN JOKE: To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="4">
@@ -6225,7 +6259,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: Why are there no pharmacies in Africa? Because you can't use medicine on an empty stomach.</desc>
+😈 DARK HUMOUR: I bought a used hearse. The previous owner was the last person to drive it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010160000 +0100" stop="20261010180000 +0100" channel="6">
@@ -6407,7 +6441,7 @@ Afternoon CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="2">
@@ -6421,7 +6455,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: Why did the golfer bring two pairs of trousers? In case he got a hole in one.</desc>
+😄 CLEAN JOKE: Why don't scientists trust atoms? Because they make up everything!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="4">
@@ -6435,7 +6469,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: The cemetery is so popular because people are dying to get in.</desc>
+😈 DARK HUMOUR: I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010180000 +0100" stop="20261010200000 +0100" channel="6">
@@ -6617,7 +6651,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="2">
@@ -6631,7 +6665,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: I told my psychiatrist I got suicidal tendencies. He said from now on I have to pay in advance.</desc>
+😄 CLEAN JOKE: Why was the maths book sad? It had too many problems.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="4">
@@ -6645,7 +6679,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: Everyone says that Hitler really loved animals. Then why did he kill 6 million of them?</desc>
+😈 DARK HUMOUR: I have a joke about an unstable chair, but it might collapse under pressure.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010200000 +0100" stop="20261010220000 +0100" channel="6">
@@ -6827,7 +6861,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="2">
@@ -6841,7 +6875,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Why are modern programming languages so materialistic? Because they are object-oriented.</desc>
+😄 CLEAN JOKE: I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="4">
@@ -6855,7 +6889,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: Dark humor is like cancer. It's funnier when children get it.</desc>
+😈 DARK HUMOUR: I walked into a bar once. It really hurt my head.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261010220000 +0100" stop="20261011000000 +0100" channel="6">
@@ -7037,7 +7071,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Light drizzle; 8°C; 18% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="2">
@@ -7051,7 +7085,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: Why did the computer go to the doctor? It had a virus.</desc>
+😄 CLEAN JOKE: What do 9 out of 10 people enjoy? Gang rape.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="4">
@@ -7065,7 +7099,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: I have a joke about an unstable chair, but it might collapse under pressure.</desc>
+😈 DARK HUMOUR: How does a Jewish person make tea? Hebrews it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011000000 +0100" stop="20261011020000 +0100" channel="6">
@@ -7247,7 +7281,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Heavy drizzle; 8°C; 6% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="2">
@@ -7261,7 +7295,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: Why don't skeletons fight? They don't have the guts.</desc>
+😄 CLEAN JOKE: Why is crucified Jesus always depicted with six-pack abs? He did CrossFit.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="4">
@@ -7275,7 +7309,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: What happens when you don't obey the KGB? You get Putin jail.</desc>
+😈 DARK HUMOUR: I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check. Thankfully he was still chained up in my basement.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011020000 +0100" stop="20261011040000 +0100" channel="6">
@@ -7457,7 +7491,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Clear; 8°C; 4% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="2">
@@ -7471,7 +7505,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: What do you call a sleeping bull? A bulldozer.</desc>
+😄 CLEAN JOKE: This morning I accidentally made my coffee with Red Bull instead of water. I was already on the highway when I noticed I forgot my car at home.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="4">
@@ -7485,7 +7519,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: Thank you student loans for getting me through college. I don't think I'll ever be able to repay you.</desc>
+😈 DARK HUMOUR: What do you call a deaf gynecologist? A lip reader.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011040000 +0100" stop="20261011060000 +0100" channel="6">
@@ -7681,7 +7715,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: What does tofu and a dildo have in common? They're both meat substitutes.</desc>
+😄 CLEAN JOKE: What did the boy with no arms get for Christmas? I don't know, he hasn't opened it yet.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="4">
@@ -7695,7 +7729,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: What's long and hard and has cum in it? A cucumber.</desc>
+😈 DARK HUMOUR: I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011060000 +0100" stop="20261011080000 +0100" channel="6">
@@ -7877,7 +7911,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Overcast; 8°C; 0% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="2">
@@ -7891,7 +7925,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: How do Rednecks celebrate Halloween? Pump kin!</desc>
+😄 CLEAN JOKE: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="4">
@@ -7905,7 +7939,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</desc>
+😈 DARK HUMOUR: I was struggling to figure out how lightning works, but then it struck me.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011080000 +0100" stop="20261011100000 +0100" channel="6">
@@ -8086,7 +8120,7 @@ Perimeter and access-point monitoring.</desc>
     <title>Camera 01: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-🌤️ WEATHER: Mainly clear; 9°C; 3% precipitation probability.
+🌤️ WEATHER: Partly cloudy; 10°C; 3% precipitation probability.
 📰 LOCAL NEWS: Savage success and statement win for Boro - Sam Parkin's EFL Takeaways — BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including Robbie Savage's debut as Peterborough manager.</desc>
     <category>CCTV</category>
   </programme>
@@ -8101,7 +8135,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Went to the doctors for a prostate exam. During the exam he said it's not unusual to become aroused or even ejaculate. But still, I wish he hadn't.</desc>
+😄 CLEAN JOKE: My husband and I were happy for 20 years. And then we met.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="4">
@@ -8115,7 +8149,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I tried writing a joke about a broken pencil, but it was pointless.</desc>
+😈 DARK HUMOUR: Dads are like boomerangs. I hope.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011100000 +0100" stop="20261011120000 +0100" channel="6">
@@ -8311,7 +8345,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: Why couldn't the skeleton go to the Christmas party? Because he had no body to go with!</desc>
+😄 CLEAN JOKE: What do you call a kid with no arms and an eyepatch? Names.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="4">
@@ -8325,7 +8359,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: Why can't orphans play baseball? They don't know where home is.</desc>
+😈 DARK HUMOUR: The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick. She still isn't talking to me.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011120000 +0100" stop="20261011140000 +0100" channel="6">
@@ -8506,8 +8540,8 @@ Daytime security monitoring.</desc>
     <title>Camera 01: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-🌤️ WEATHER: Mainly clear; 12°C; 8% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+🌤️ WEATHER: Partly cloudy; 12°C; 8% precipitation probability.
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="2">
@@ -8521,7 +8555,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: Why do programmers prefer using the dark mode? Because light attracts bugs.</desc>
+😄 CLEAN JOKE: What did the ocean say to the beach? Nothing, it just waved.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="4">
@@ -8535,7 +8569,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: I wrote a book about falling down stairs. It has its ups and downs.</desc>
+😈 DARK HUMOUR: Doctor: "I have some news about your baby." Parents: "Don't tell us the gender, we want to keep it a surprise." Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011140000 +0100" stop="20261011160000 +0100" channel="6">
@@ -8717,7 +8751,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Overcast; 12°C; 0% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="2">
@@ -8731,7 +8765,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: Thank you student loans for getting me through college. I don't think I'll ever be able to repay you.</desc>
+😄 CLEAN JOKE: My girlfriend left me because I have a fetish for touching pasta. I'm feeling cannelloni now. :'(</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="4">
@@ -8745,7 +8779,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: What did the fish say when it swam into the wall? Dam.</desc>
+😈 DARK HUMOUR: Did you hear about the crime in the parking garage? It was wrong on so many levels.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011160000 +0100" stop="20261011180000 +0100" channel="6">
@@ -8926,8 +8960,8 @@ Afternoon CCTV monitoring.</desc>
     <title>Camera 01: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-🌤️ WEATHER: Mainly clear; 11°C; 0% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+🌤️ WEATHER: Partly cloudy; 11°C; 0% precipitation probability.
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="2">
@@ -8941,7 +8975,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: Why was the JavaScript developer sad? Because they didn't Node how to Express themself!</desc>
+😄 CLEAN JOKE: Four engineers get into a car. The car won't start. The Mechanical engineer says "It's a broken starter". The Electrical engineer says "Dead battery". The Chemical engineer says "Impurities in the gasoline". The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="4">
@@ -8955,7 +8989,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check. Thankfully he was still chained up in my basement.</desc>
+😈 DARK HUMOUR: What does a perverted frog say? Rubbit.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011180000 +0100" stop="20261011200000 +0100" channel="6">
@@ -9136,8 +9170,8 @@ Evening security monitoring.</desc>
     <title>Camera 01: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-🌤️ WEATHER: Partly cloudy; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+🌤️ WEATHER: Partly cloudy; 11°C; 0% precipitation probability.
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="2">
@@ -9151,7 +9185,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: What says Oh Oh Oh? Santa walking backwards!</desc>
+😄 CLEAN JOKE: Why did the programmer jump on the table? Because debug was on his screen.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="4">
@@ -9165,7 +9199,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: What kind of car did Whitney Houston drive? A Hyundaiiiiiiiiiiii</desc>
+😈 DARK HUMOUR: What do you call crystal clear urine? 1080p.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011200000 +0100" stop="20261011220000 +0100" channel="6">
@@ -9346,8 +9380,8 @@ Night-time CCTV surveillance.</desc>
     <title>Camera 01: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-🌤️ WEATHER: Clear; 9°C; 0% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+🌤️ WEATHER: Clear; 10°C; 0% precipitation probability.
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="2">
@@ -9361,7 +9395,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Why is Linux safe? Hackers peak through Windows only.</desc>
+😄 CLEAN JOKE: How do you make holy water? You boil the hell out of it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="4">
@@ -9375,7 +9409,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: I have a stepladder because my real ladder left when I was a child.</desc>
+😈 DARK HUMOUR: Why do Africans have dark skin? It's easier to commit crimes at night.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261011220000 +0100" stop="20261012000000 +0100" channel="6">
@@ -9556,8 +9590,8 @@ Late-night security monitoring.</desc>
     <title>Camera 01: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-🌤️ WEATHER: Overcast; 9°C; 0% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="2">
@@ -9571,7 +9605,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: What kind of shoes do ninjas wear? Sneakers.</desc>
+😄 CLEAN JOKE: What do you call a can opener that doesn't work? A can't opener.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="4">
@@ -9585,7 +9619,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: When I was a kid, I made a really big sandcastle with my grandma. Unfortunately, that didn't impress anyone at the cremation...</desc>
+😈 DARK HUMOUR: Why is it so hard to break up with a Japanese girlfriend? You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012000000 +0100" stop="20261012020000 +0100" channel="6">
@@ -9766,8 +9800,8 @@ Overnight CCTV surveillance.</desc>
     <title>Camera 01: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+🌤️ WEATHER: Overcast; 11°C; 0% precipitation probability.
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="2">
@@ -9781,7 +9815,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work?</desc>
+😄 CLEAN JOKE: "Honey, go to the store and buy some eggs." "OK." "Oh and while you're there, get some milk." He never returned.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="4">
@@ -9795,7 +9829,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: Why shouldn't you visit an expensive wig shop? It's too high a price "toupee."</desc>
+😈 DARK HUMOUR: I tried writing a joke about a broken pencil, but it was pointless.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012020000 +0100" stop="20261012040000 +0100" channel="6">
@@ -9976,8 +10010,8 @@ Continuous security monitoring.</desc>
     <title>Camera 01: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-🌤️ WEATHER: Overcast; 11°C; 4% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+🌤️ WEATHER: Overcast; 12°C; 4% precipitation probability.
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="2">
@@ -9991,7 +10025,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: How long does a black woman take to throw away the garbage? Nine months.</desc>
+😄 CLEAN JOKE: Why was the JavaScript developer sad? Because they didn't Node how to Express themself!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="4">
@@ -10005,7 +10039,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: Why do cows wear bells? Because their horns don't work!</desc>
+😈 DARK HUMOUR: What do dermatologists and the KKK have in common? They both remove blackheads.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012040000 +0100" stop="20261012060000 +0100" channel="6">
@@ -10186,8 +10220,8 @@ Pre-dawn CCTV monitoring.</desc>
     <title>Camera 01: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-🌤️ WEATHER: Overcast; 12°C; 20% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+🌤️ WEATHER: Mainly clear; 12°C; 20% precipitation probability.
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="2">
@@ -10201,7 +10235,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: Why did the Romanian stop reading? They wanted to give the Bucharest.</desc>
+😄 CLEAN JOKE: What do you call a bird sitting with their legs spread? A prostitweety.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="4">
@@ -10215,7 +10249,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: What's grey and comes in pints? An elephant.</desc>
+😈 DARK HUMOUR: No matter how kind you are... German kids are always Kinder.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012060000 +0100" stop="20261012080000 +0100" channel="6">
@@ -10396,7 +10430,7 @@ Morning CCTV monitoring.</desc>
     <title>Camera 01: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-🌤️ WEATHER: Overcast; 13°C; 53% precipitation probability.
+🌤️ WEATHER: Overcast; 12°C; 53% precipitation probability.
 📰 LOCAL NEWS: Julie Hesmondhalgh to get lifetime achievement award — The former Coronation Street and current Traitors star gets the special accolade next month.</desc>
     <category>CCTV</category>
   </programme>
@@ -10411,7 +10445,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: Why did Santa's helper see the doctor? Because he had a low "elf" esteem!</desc>
+😄 CLEAN JOKE: Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="4">
@@ -10425,7 +10459,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: A horse walks into a bar. "Hey", the Bartender says. "Sure", the horse replies.</desc>
+😈 DARK HUMOUR: I wanted to be a grave digger, but I couldn't get to the bottom of it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012080000 +0100" stop="20261012100000 +0100" channel="6">
@@ -10607,7 +10641,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Overcast; 13°C; 65% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="2">
@@ -10621,7 +10655,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: My first high-school football game was a lot like my first time having sex. I was bloody and sore at the end, but at least my dad came.</desc>
+😄 CLEAN JOKE: A SQL statement walks into a bar and sees two tables. It approaches, and asks "may I join you?"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="4">
@@ -10635,7 +10669,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I had a granny that we couldn't decide whether to bury or cremate In the end we decided to just let her live.</desc>
+😈 DARK HUMOUR: When I was a kid, I made a really big sandcastle with my grandma. Unfortunately, that didn't impress anyone at the cremation...</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012100000 +0100" stop="20261012120000 +0100" channel="6">
@@ -10831,7 +10865,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: How many nice guys does it take to change a lightbulb? None, they'll just compliment it and get pissed off when it won't screw.</desc>
+😄 CLEAN JOKE: The gas Argon walks into a bar. The barkeeper says "What would you like to drink?" But Argon doesn't react.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="4">
@@ -10845,7 +10879,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: Has COVID-19 forced you to wear glasses and a mask at the same time? If so, you may be entitled to condensation.</desc>
+😈 DARK HUMOUR: My grandfather has the heart of a lion and a lifetime ban from the zoo.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012120000 +0100" stop="20261012140000 +0100" channel="6">
@@ -11041,7 +11075,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What do 9 out of 10 people enjoy? Gang rape.</desc>
+😄 CLEAN JOKE: What do an orgasm and a pulse have in common? I don't care if she has one.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="4">
@@ -11055,7 +11089,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: What's the best thing about Switzerland? I don't know, but the flag is a big plus.</desc>
+😈 DARK HUMOUR: What's the difference between a little girl and a fridge? Fridges don't scream when you put your meat in them.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012140000 +0100" stop="20261012160000 +0100" channel="6">
@@ -11237,7 +11271,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Overcast; 15°C; 27% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="2">
@@ -11251,7 +11285,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
+😄 CLEAN JOKE: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="4">
@@ -11265,7 +11299,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: How do you make holy water? You boil the hell out of it.</desc>
+😈 DARK HUMOUR: I wanted to learn how to make ice, but I lost interest.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012160000 +0100" stop="20261012180000 +0100" channel="6">
@@ -11446,8 +11480,8 @@ Afternoon CCTV monitoring.</desc>
     <title>Camera 01: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-🌤️ WEATHER: Light drizzle; 16°C; 13% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+🌤️ WEATHER: Overcast; 15°C; 13% precipitation probability.
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="2">
@@ -11461,7 +11495,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: Why was the calendar nervous? Its days were numbered.</desc>
+😄 CLEAN JOKE: Debugging: Removing the needles from the haystack.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="4">
@@ -11475,7 +11509,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: Doctor: "I have some news about your baby." Parents: "Don't tell us the gender, we want to keep it a surprise." Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</desc>
+😈 DARK HUMOUR: My grandfather says I'm too reliant on technology. I called him a hypocrite and unplugged his life support.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012180000 +0100" stop="20261012200000 +0100" channel="6">
@@ -11656,8 +11690,8 @@ Evening security monitoring.</desc>
     <title>Camera 01: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-🌤️ WEATHER: Partly cloudy; 16°C; 5% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+🌤️ WEATHER: Overcast; 16°C; 5% precipitation probability.
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="2">
@@ -11671,7 +11705,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: Did you hear about the crime in the parking garage? It was wrong on so many levels.</desc>
+😄 CLEAN JOKE: I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="4">
@@ -11685,7 +11719,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: Did you hear about the crime in the parking garage? It was wrong on so many levels.</desc>
+😈 DARK HUMOUR: Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012200000 +0100" stop="20261012220000 +0100" channel="6">
@@ -11866,8 +11900,8 @@ Night-time CCTV surveillance.</desc>
     <title>Camera 01: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-🌤️ WEATHER: Overcast; 15°C; 2% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+🌤️ WEATHER: Partly cloudy; 15°C; 2% precipitation probability.
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="2">
@@ -11881,7 +11915,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Has COVID-19 forced you to wear glasses and a mask at the same time? If so, you may be entitled to condensation.</desc>
+😄 CLEAN JOKE: What's the best thing about Switzerland? I don't know, but the flag is a big plus.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="4">
@@ -11895,7 +11929,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: I started a company selling land mines disguised as prayer mats. Prophets are going through the roof.</desc>
+😈 DARK HUMOUR: Why do front end developers eat lunch alone? Because they don't know how to join tables.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261012220000 +0100" stop="20261013000000 +0100" channel="6">
@@ -12077,7 +12111,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Overcast; 15°C; 4% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="2">
@@ -12091,7 +12125,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: What time did the man go to the dentist? Tooth hurt-y.</desc>
+😄 CLEAN JOKE: What do you call a Jewish Pokemon Trainer? Ash.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="4">
@@ -12105,7 +12139,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: What do you call crystal clear urine? 1080p.</desc>
+😈 DARK HUMOUR: What do you call a witch at the beach? A Sandwich.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013000000 +0100" stop="20261013020000 +0100" channel="6">
@@ -12287,7 +12321,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Partly cloudy; 15°C; 7% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="2">
@@ -12301,7 +12335,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: Your momma is so fat, you need to switch to NTFS to store a picture of her.</desc>
+😄 CLEAN JOKE: What do elves post on Social Media? Elf-ies!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="4">
@@ -12315,7 +12349,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: I don't trust stairs. They're always up to something.</desc>
+😈 DARK HUMOUR: I stayed up all night wondering where the sun went. Then it dawned on me.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013020000 +0100" stop="20261013040000 +0100" channel="6">
@@ -12496,8 +12530,8 @@ Continuous security monitoring.</desc>
     <title>Camera 01: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-🌤️ WEATHER: Partly cloudy; 15°C; 28% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+🌤️ WEATHER: Partly cloudy; 16°C; 28% precipitation probability.
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="2">
@@ -12511,7 +12545,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: My wife and I have reached the difficult decision that we do not want children. If anybody does, please just send me your contact details and we can drop them off tomorrow.</desc>
+😄 CLEAN JOKE: What do you call a witch at the beach? A Sandwich.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="4">
@@ -12525,7 +12559,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: Why do Africans have dark skin? It's easier to commit crimes at night.</desc>
+😈 DARK HUMOUR: I can't believe I got fired from the calendar factory. All I did was take a day off.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013040000 +0100" stop="20261013060000 +0100" channel="6">
@@ -12706,8 +12740,8 @@ Pre-dawn CCTV monitoring.</desc>
     <title>Camera 01: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-🌤️ WEATHER: Overcast; 16°C; 63% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+🌤️ WEATHER: Light drizzle; 16°C; 63% precipitation probability.
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="2">
@@ -12721,7 +12755,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: Why are Americans bad at Dota? They can't protect their towers.</desc>
+😄 CLEAN JOKE: Arguing with a woman is like reading a software's license agreement. In the end you ignore everything and click "I agree".</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="4">
@@ -12735,7 +12769,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: What do you call a pile of kittens? A meowntain.</desc>
+😈 DARK HUMOUR: I just saw my wife trip over and drop a basket full of ironed clothes. I watched it all unfold.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013060000 +0100" stop="20261013080000 +0100" channel="6">
@@ -12916,8 +12950,8 @@ Morning CCTV monitoring.</desc>
     <title>Camera 01: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-🌤️ WEATHER: Light rain; 15°C; 92% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+🌤️ WEATHER: Rain; 14°C; 92% precipitation probability.
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="2">
@@ -12931,7 +12965,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: What do you call a pile of cats? A meowtain.</desc>
+😄 CLEAN JOKE: A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll have to charge you extra, that's a root beer float". The guy says "In that case, better make it a double."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="4">
@@ -12945,7 +12979,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: Why is it so hard to break up with a Japanese girlfriend? You have to drop the bomb twice before she gets it.</desc>
+😈 DARK HUMOUR: How do we know Jesus wasn't black? He would have been hung from a tree, not a cross.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013080000 +0100" stop="20261013100000 +0100" channel="6">
@@ -13141,7 +13175,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Who hides in the bakery at Christmas? A mince spy!</desc>
+😄 CLEAN JOKE: How do you make holy water? You freeze it and drill holes in it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="4">
@@ -13155,7 +13189,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I asked my wife if I was the only one she's been with. She said, "Yes, the others were at least sevens or eights."</desc>
+😈 DARK HUMOUR: What's the difference between a baby and a pile of sand? You can't pick a pile of sand up with a pitchfork.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013100000 +0100" stop="20261013120000 +0100" channel="6">
@@ -13336,8 +13370,8 @@ Continuous CCTV surveillance.</desc>
     <title>Camera 01: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-🌤️ WEATHER: Mainly clear; 14°C; 90% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+🌤️ WEATHER: Mainly clear; 15°C; 90% precipitation probability.
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="2">
@@ -13351,7 +13385,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: What did the cannibal do after he dumped his girlfriend? He wiped his ass.</desc>
+😄 CLEAN JOKE: What part of a vegetable are you not supposed to eat? The wheelchair.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="4">
@@ -13365,7 +13399,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: People are like jellybeans and licorice: No one likes the blacks.</desc>
+😈 DARK HUMOUR: I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013120000 +0100" stop="20261013140000 +0100" channel="6">
@@ -13561,7 +13595,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What's the difference between England and a tea bag? The tea bag stays in the cup longer.</desc>
+😄 CLEAN JOKE: I told my psychiatrist I got suicidal tendencies. He said from now on I have to pay in advance.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="4">
@@ -13575,7 +13609,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: Why did the koala get rejected? Because he did not have any koalafication.</desc>
+😈 DARK HUMOUR: I told my psychiatrist I got suicidal tendencies. He said from now on I have to pay in advance.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013140000 +0100" stop="20261013160000 +0100" channel="6">
@@ -13756,7 +13790,7 @@ General property and perimeter monitoring.</desc>
     <title>Camera 01: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-🌤️ WEATHER: Clear; 14°C; 65% precipitation probability.
+🌤️ WEATHER: Mainly clear; 14°C; 65% precipitation probability.
 📰 LOCAL NEWS: 'I watched Apollo 17 launch with Neil Armstrong' — Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong.</desc>
     <category>CCTV</category>
   </programme>
@@ -13771,7 +13805,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: What's the difference between Jesus and a hooker? The look on their face when you are nailing them.</desc>
+😄 CLEAN JOKE: Two C strings walk into a bar. The bartender asks "What can I get ya?" The first string says "I'll have a gin and tonic." The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@" The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="4">
@@ -13785,7 +13819,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: 9/11 jokes are not funny. The other 2 though, are hilarious!</desc>
+😈 DARK HUMOUR: I had a granny that we couldn't decide whether to bury or cremate In the end we decided to just let her live.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013160000 +0100" stop="20261013180000 +0100" channel="6">
@@ -13966,8 +14000,8 @@ Afternoon CCTV monitoring.</desc>
     <title>Camera 01: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-🌤️ WEATHER: Partly cloudy; 14°C; 44% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+🌤️ WEATHER: Partly cloudy; 13°C; 44% precipitation probability.
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="2">
@@ -13981,7 +14015,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: Why do Java programmers hate communism? They don't want to live in a classless society.</desc>
+😄 CLEAN JOKE: Why can't your nose be twelve inches long? Then it would be a foot.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="4">
@@ -13995,7 +14029,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle? Attire.</desc>
+😈 DARK HUMOUR: A horse walks into a bar. "Hey", the Bartender says. "Sure", the horse replies.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013180000 +0100" stop="20261013200000 +0100" channel="6">
@@ -14177,7 +14211,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Overcast; 13°C; 22% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="2">
@@ -14191,7 +14225,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: Two peanuts were walking. One was assaulted.</desc>
+😄 CLEAN JOKE: What kind of tree fits in your hand? A palm tree.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="4">
@@ -14205,7 +14239,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: What's the difference between a baby and a pile of sand? You can't pick a pile of sand up with a pitchfork.</desc>
+😈 DARK HUMOUR: My memory is so bad I can hide my own Easter eggs.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013200000 +0100" stop="20261013220000 +0100" channel="6">
@@ -14387,7 +14421,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Overcast; 12°C; 2% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="2">
@@ -14401,7 +14435,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Muslim women are horrible competitors. No matter what they do, they always get beat.</desc>
+😄 CLEAN JOKE: What did one necrophiliac tell the other necrophiliac after work? "Let's go have a couple of cold ones!"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="4">
@@ -14415,7 +14449,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: What do you call a cow with no legs? Ground beef.</desc>
+😈 DARK HUMOUR: What kind of bees produce milk? Boo-Bees.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261013220000 +0100" stop="20261014000000 +0100" channel="6">
@@ -14597,7 +14631,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="2">
@@ -14611,7 +14645,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</desc>
+😄 CLEAN JOKE: What's the difference between an in-law and an outlaw? An outlaw is wanted.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="4">
@@ -14625,7 +14659,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: I just got fired from my job at the keyboard factory. They told me I wasn't putting in enough shifts.</desc>
+😈 DARK HUMOUR: The KKK isn't really that racist. I went to one of their meetings and there were a lot of black people hanging around.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014000000 +0100" stop="20261014020000 +0100" channel="6">
@@ -14807,7 +14841,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="2">
@@ -14821,7 +14855,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: What is the most used language in programming? Profanity.</desc>
+😄 CLEAN JOKE: What's green and smells like pork? Kermit's Fingers.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="4">
@@ -14835,7 +14869,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: Dads are like boomerangs. I hope.</desc>
+😈 DARK HUMOUR: The cemetery is so popular because people are dying to get in.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014020000 +0100" stop="20261014040000 +0100" channel="6">
@@ -15017,7 +15051,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="2">
@@ -15031,7 +15065,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: Why does no one like SQLrillex? He keeps dropping the database.</desc>
+😄 CLEAN JOKE: Why do Java programmers hate communism? They don't want to live in a classless society.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="4">
@@ -15045,7 +15079,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: Muslim women are horrible competitors. No matter what they do, they always get beat.</desc>
+😈 DARK HUMOUR: Dark humor is like cancer. It's funnier when children get it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014040000 +0100" stop="20261014060000 +0100" channel="6">
@@ -15227,7 +15261,7 @@ Pre-dawn CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
 🌤️ WEATHER: Overcast; 9°C; 0% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="2">
@@ -15241,7 +15275,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: What did one necrophiliac tell the other necrophiliac after work? "Let's go have a couple of cold ones!"</desc>
+😄 CLEAN JOKE: I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="4">
@@ -15255,7 +15289,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: What do Asian people call fingers? Limb Limbs.</desc>
+😈 DARK HUMOUR: You see, mountains aren't just funny. They are hill areas.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014060000 +0100" stop="20261014080000 +0100" channel="6">
@@ -15437,7 +15471,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Overcast; 10°C; 0% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="2">
@@ -15451,7 +15485,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: What do clouds wear? Thunderwear.</desc>
+😄 CLEAN JOKE: In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="4">
@@ -15465,7 +15499,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: Why does Dr. Pepper come in a bottle? His wife is dead.</desc>
+😈 DARK HUMOUR: Why do German showers have 11 holes? Because Jews only have 10 fingers.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014080000 +0100" stop="20261014100000 +0100" channel="6">
@@ -15647,7 +15681,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Overcast; 11°C; 0% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="2">
@@ -15661,7 +15695,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Why did the functional programmer get thrown out of school? Because he refused to take classes.</desc>
+😄 CLEAN JOKE: UDP is better in the COVID era since it avoids unnecessary handshakes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="4">
@@ -15675,7 +15709,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: What's the difference between a baby and a watermelon? One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
+😈 DARK HUMOUR: What's grey and comes in pints? An elephant.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014100000 +0100" stop="20261014120000 +0100" channel="6">
@@ -15871,7 +15905,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: I WRITE MY JOKES IN CAPITALS. THIS ONE WAS WRITTEN IN PARIS.</desc>
+😄 CLEAN JOKE: What do Japanese cannibals eat? Raw men.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="4">
@@ -15885,7 +15919,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: What do you call a cheap circumcision? A rip off.</desc>
+😈 DARK HUMOUR: I tried to organise a hide-and-seek tournament, but good players are hard to find.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014120000 +0100" stop="20261014140000 +0100" channel="6">
@@ -16067,7 +16101,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Overcast; 15°C; 3% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="2">
@@ -16081,7 +16115,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"</desc>
+😄 CLEAN JOKE: If you're here for the yodeling lesson, please form an orderly orderly orderly queue.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="4">
@@ -16095,7 +16129,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: Why did the banana go see a doctor? Because it wasn't peeling well.</desc>
+😈 DARK HUMOUR: To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014140000 +0100" stop="20261014160000 +0100" channel="6">
@@ -16291,7 +16325,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: Two C strings walk into a bar. The bartender asks "What can I get ya?" The first string says "I'll have a gin and tonic." The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@" The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</desc>
+😄 CLEAN JOKE: What do you call a belt made out of watches? A waist of time!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014160000 +0100" stop="20261014180000 +0100" channel="4">
@@ -16501,7 +16535,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: My wife divorced me so I stole her wheelchair. Guess who came crawling back.</desc>
+😄 CLEAN JOKE: What has ears but cannot hear? A cornfield.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="4">
@@ -16515,7 +16549,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
+😈 DARK HUMOUR: Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014180000 +0100" stop="20261014200000 +0100" channel="6">
@@ -16697,7 +16731,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Overcast; 14°C; 1% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="2">
@@ -16711,7 +16745,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: Judge: "I sentence you to the maximum punishment..." Me (thinking): "Please be death, please be death..." Judge: "Learn Java!" Me: "Damn."</desc>
+😄 CLEAN JOKE: How long does a black woman take to throw away the garbage? Nine months.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="4">
@@ -16725,7 +16759,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: What's the difference between Harry Potter and the jews? Harry escaped the chamber.</desc>
+😈 DARK HUMOUR: What happens when you don't obey the KGB? You get Putin jail.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014200000 +0100" stop="20261014220000 +0100" channel="6">
@@ -16907,7 +16941,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Overcast; 14°C; 4% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="2">
@@ -16921,7 +16955,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Why did the banana go see a doctor? Because it wasn't peeling well.</desc>
+😄 CLEAN JOKE: What is the best prefix for global variables? //</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="4">
@@ -16935,7 +16969,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: What did the customer say to the waiter? I'm all fed up with your service.</desc>
+😈 DARK HUMOUR: What did the cannibal do after he dumped his girlfriend? He wiped his ass.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261014220000 +0100" stop="20261015000000 +0100" channel="6">
@@ -17117,7 +17151,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Overcast; 14°C; 10% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="2">
@@ -17131,7 +17165,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: What did the customer say to the waiter? I'm all fed up with your service.</desc>
+😄 CLEAN JOKE: My wife left me because I'm too insecure and paranoid. Oh wait, never mind. She was just getting the mail.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="4">
@@ -17145,7 +17179,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".</desc>
+😈 DARK HUMOUR: Everyone says that Hitler really loved animals. Then why did he kill 6 million of them?</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015000000 +0100" stop="20261015020000 +0100" channel="6">
@@ -17327,7 +17361,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Overcast; 14°C; 15% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="2">
@@ -17341,7 +17375,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: I hate Russian matryoshka dolls. They're so full of themselves.</desc>
+😄 CLEAN JOKE: Why is Linux safe? Hackers peak through Windows only.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="4">
@@ -17355,7 +17389,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.</desc>
+😈 DARK HUMOUR: What is the difference between acne and a catholic priest? Acne usually comes on a boys face *after* he turns 12.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015020000 +0100" stop="20261015040000 +0100" channel="6">
@@ -17537,7 +17571,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Overcast; 14°C; 23% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="2">
@@ -17551,7 +17585,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.</desc>
+😄 CLEAN JOKE: Two peanuts were walking. One was assaulted.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="4">
@@ -17565,7 +17599,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: I told my plants a dark joke. They didn't laugh; they just needed more thyme.</desc>
+😈 DARK HUMOUR: The past, the present and the future walk into a bar. It was tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015040000 +0100" stop="20261015060000 +0100" channel="6">
@@ -17747,7 +17781,7 @@ Pre-dawn CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
 🌤️ WEATHER: Overcast; 15°C; 33% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="2">
@@ -17761,7 +17795,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: Why did the scarecrow win an award? He was outstanding in his field!</desc>
+😄 CLEAN JOKE: What did one wall say to the other? I'll meet you at the corner.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="4">
@@ -17775,7 +17809,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: I told my doctor I broke my arm in two places. He told me to stop going to those places.</desc>
+😈 DARK HUMOUR: My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name. Other than that, the sex is great.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015060000 +0100" stop="20261015080000 +0100" channel="6">
@@ -17957,7 +17991,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Overcast; 15°C; 34% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="2">
@@ -17971,7 +18005,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: How does a penguin build its house? Igloos it together!</desc>
+😄 CLEAN JOKE: Why shouldn't you visit an expensive wig shop? It's too high a price "toupee."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="4">
@@ -17985,7 +18019,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: I bought a used hearse. The previous owner was the last person to drive it.</desc>
+😈 DARK HUMOUR: I told my doctor I broke my arm in two places. He told me to stop going to those places.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015080000 +0100" stop="20261015100000 +0100" channel="6">
@@ -18167,7 +18201,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Overcast; 16°C; 37% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="2">
@@ -18181,7 +18215,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: Why was the maths book sad? It had too many problems.</desc>
+😄 CLEAN JOKE: What happened to the cannibal who showed up late to Halloween dinner? They gave him the cold shoulder.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="4">
@@ -18195,7 +18229,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I was reading a great book about an immortal dog the other day. It was impossible to put down.</desc>
+😈 DARK HUMOUR: What do you call a cheap circumcision? A rip off.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015100000 +0100" stop="20261015120000 +0100" channel="6">
@@ -18377,7 +18411,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Light drizzle; 16°C; 47% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="2">
@@ -18391,7 +18425,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: What do you call cheese that isn't yours? Nacho cheese.</desc>
+😄 CLEAN JOKE: Mickey Mouse and Minnie Mouse are in the divorce court. "Mickey", the judge says, "I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me." "I didn't say she was insane", exclaims Mickey. "I said she was fucking Goofy."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="4">
@@ -18405,7 +18439,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: I have a fear of speed bumps, but I'm slowly getting over it.</desc>
+😈 DARK HUMOUR: 9/11 jokes are not funny. The other 2 though, are hilarious!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015120000 +0100" stop="20261015140000 +0100" channel="6">
@@ -18601,7 +18635,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What do you call a pile of kittens? A meowntain.</desc>
+😄 CLEAN JOKE: Why did the tomato blush? It saw the salad dressing.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="4">
@@ -18615,7 +18649,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: What do you call a kid with no arms and an eyepatch? Names.</desc>
+😈 DARK HUMOUR: Did you hear about the cheese factory that exploded in France? There was nothing but de brie.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015140000 +0100" stop="20261015160000 +0100" channel="6">
@@ -18797,7 +18831,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Drizzle; 16°C; 59% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="2">
@@ -18811,7 +18845,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: The gas Argon walks into a bar. The barkeeper says "What would you like to drink?" But Argon doesn't react.</desc>
+😄 CLEAN JOKE: "We messed up the keming again guys."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="4">
@@ -18825,7 +18859,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: I can't believe I got fired from the calendar factory. All I did was take a day off.</desc>
+😈 DARK HUMOUR: I told my plants a dark joke. They didn't laugh; they just needed more thyme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015160000 +0100" stop="20261015180000 +0100" channel="6">
@@ -19021,7 +19055,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: .NET developers are picky when it comes to food. They only like chicken NuGet.</desc>
+😄 CLEAN JOKE: White people don't shoot each other in the streets as black people do. They do it in schools because they have class.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="4">
@@ -19035,7 +19069,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: Why do Hong Kong cops like to go to work early? To beat the crowd.</desc>
+😈 DARK HUMOUR: What do Asian people call fingers? Limb Limbs.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015180000 +0100" stop="20261015200000 +0100" channel="6">
@@ -19231,7 +19265,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: What do you call a dinosaur with an extensive vocabulary? A thesaurus.</desc>
+😄 CLEAN JOKE: Went to the doctors for a prostate exam. During the exam he said it's not unusual to become aroused or even ejaculate. But still, I wish he hadn't.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="4">
@@ -19245,7 +19279,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: What part of a vegetable are you not supposed to eat? The wheelchair.</desc>
+😈 DARK HUMOUR: I'm thinking of setting up a comedy group to help people going through cancer treatment. I'll call it "A Sense of Tumor".</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015200000 +0100" stop="20261015220000 +0100" channel="6">
@@ -19427,7 +19461,7 @@ Night-time CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
 🌤️ WEATHER: Rain; 14°C; 53% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="2">
@@ -19441,7 +19475,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: How do you make holy water? You boil the hell out of it.</desc>
+😄 CLEAN JOKE: What do clouds wear? Thunderwear.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="4">
@@ -19455,7 +19489,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: How does a Jewish person make tea? Hebrews it.</desc>
+😈 DARK HUMOUR: My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261015220000 +0100" stop="20261016000000 +0100" channel="6">
@@ -19637,7 +19671,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Light rain; 12°C; 47% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="2">
@@ -19651,7 +19685,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: What do you call a bear with no teeth? A gummy bear.</desc>
+😄 CLEAN JOKE: Why don't skeletons fight? They don't have the guts.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="4">
@@ -19665,7 +19699,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: What did the cannibal do after he dumped his girlfriend? He wiped his ass.</desc>
+😈 DARK HUMOUR: A grocery store cashier asked if I would like my milk in a bag. I told her "No, thanks. The carton works fine".</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016000000 +0100" stop="20261016020000 +0100" channel="6">
@@ -19847,7 +19881,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Light drizzle; 11°C; 40% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="2">
@@ -19861,7 +19895,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: I told my wife to shave her pussy. I woke up bald.</desc>
+😄 CLEAN JOKE: How does a Jewish person make tea? Hebrews it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="4">
@@ -19875,7 +19909,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: Oysters hate to give away their pearls because they are shellfish.</desc>
+😈 DARK HUMOUR: What's the difference between a baby and a watermelon? One's satisfying to hit with a sledgehammer. The other's a watermelon.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016020000 +0100" stop="20261016040000 +0100" channel="6">
@@ -20057,7 +20091,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Light drizzle; 10°C; 33% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="2">
@@ -20071,7 +20105,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: What do you call a witch at the beach? A Sandwich.</desc>
+😄 CLEAN JOKE: Why did the cookie go to hospital? It felt crummy.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="4">
@@ -20085,7 +20119,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: My calendar's days are numbered, and it knows it.</desc>
+😈 DARK HUMOUR: I opened a restaurant on a cliff. The reviews have been up and down.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016040000 +0100" stop="20261016060000 +0100" channel="6">
@@ -20267,7 +20301,7 @@ Pre-dawn CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
 🌤️ WEATHER: Overcast; 10°C; 27% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016060000 +0100" stop="20261016080000 +0100" channel="2">
@@ -20281,7 +20315,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: What kind of tree fits in your hand? A palm tree.</desc>
+😄 CLEAN JOKE: Your mama's so FAT she can't save files bigger than 4GB.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016060000 +0100" stop="20261016080000 +0100" channel="4">
@@ -20295,7 +20329,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</desc>
+😈 DARK HUMOUR: Why does Dr. Pepper come in a bottle? His wife is dead.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016060000 +0100" stop="20261016080000 +0100" channel="6">
@@ -20477,7 +20511,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Overcast; 10°C; 20% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016080000 +0100" stop="20261016100000 +0100" channel="2">
@@ -20491,7 +20525,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: You see, mountains aren't just funny. They are hill areas.</desc>
+😄 CLEAN JOKE: Where do sick cruise ships go to get healthy? The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016080000 +0100" stop="20261016100000 +0100" channel="4">
@@ -20505,7 +20539,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: What is the difference between acne and a catholic priest? Acne usually comes on a boys face *after* he turns 12.</desc>
+😈 DARK HUMOUR: I asked my wife if I was the only one she's been with. She said, "Yes, the others were at least sevens or eights."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016080000 +0100" stop="20261016100000 +0100" channel="6">
@@ -20687,7 +20721,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Partly cloudy; 11°C; 21% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016100000 +0100" stop="20261016120000 +0100" channel="2">
@@ -20701,7 +20735,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: A perfectionist walked into a bar... apparently, the bar was not set high enough.</desc>
+😄 CLEAN JOKE: What do you call a pile of cats? A meowtain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016100000 +0100" stop="20261016120000 +0100" channel="4">
@@ -20715,7 +20749,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!</desc>
+😈 DARK HUMOUR: What's long and hard and has cum in it? A cucumber.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016100000 +0100" stop="20261016120000 +0100" channel="6">
@@ -20897,7 +20931,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Mainly clear; 12°C; 33% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016120000 +0100" stop="20261016140000 +0100" channel="2">
@@ -20911,7 +20945,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: Why do front end developers eat lunch alone? Because they don't know how to join tables.</desc>
+😄 CLEAN JOKE: Did you hear about the crime in the parking garage? It was wrong on so many levels.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016120000 +0100" stop="20261016140000 +0100" channel="4">
@@ -20925,7 +20959,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: The KKK isn't really that racist. I went to one of their meetings and there were a lot of black people hanging around.</desc>
+😈 DARK HUMOUR: What happened to the man who got behind on payments to his exorcist? He got repossessed.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016120000 +0100" stop="20261016140000 +0100" channel="6">
@@ -21107,7 +21141,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Mainly clear; 12°C; 34% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016140000 +0100" stop="20261016160000 +0100" channel="2">
@@ -21121,7 +21155,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: What do you call a cheap circumcision? A rip off.</desc>
+😄 CLEAN JOKE: What's the object-oriented way to become wealthy? Inheritance.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016140000 +0100" stop="20261016160000 +0100" channel="4">
@@ -21135,7 +21169,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: One time I masturbated on a plane. I called it "highjacking".</desc>
+😈 DARK HUMOUR: What did the customer say to the waiter? I'm all fed up with your service.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016140000 +0100" stop="20261016160000 +0100" channel="6">
@@ -21331,7 +21365,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: UDP is better in the COVID era since it avoids unnecessary handshakes.</desc>
+😄 CLEAN JOKE: Why are modern programming languages so materialistic? Because they are object-oriented.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016160000 +0100" stop="20261016180000 +0100" channel="4">
@@ -21345,7 +21379,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: Why do front end developers eat lunch alone? Because they don't know how to join tables.</desc>
+😈 DARK HUMOUR: How did Harry Potter get down the hill? Walking... JK, Rolling.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016160000 +0100" stop="20261016180000 +0100" channel="6">
@@ -21527,7 +21561,7 @@ Afternoon CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
 🌤️ WEATHER: Clear; 10°C; 16% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016180000 +0100" stop="20261016200000 +0100" channel="2">
@@ -21541,7 +21575,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: What do you call a cop's penis after he's done masturbating? Pulled pork.</desc>
+😄 CLEAN JOKE: Muslim women are horrible competitors. No matter what they do, they always get beat.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016180000 +0100" stop="20261016200000 +0100" channel="4">
@@ -21555,7 +21589,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: My grandfather has the heart of a lion and a lifetime ban from the zoo.</desc>
+😈 DARK HUMOUR: Thank you student loans for getting me through college. I don't think I'll ever be able to repay you.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016180000 +0100" stop="20261016200000 +0100" channel="6">
@@ -21751,7 +21785,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: What's green and smells like pork? Kermit's Fingers.</desc>
+😄 CLEAN JOKE: I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016200000 +0100" stop="20261016220000 +0100" channel="4">
@@ -21765,7 +21799,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: I have a fish that can breakdance! Only for 20 seconds though, and only once.</desc>
+😈 DARK HUMOUR: Why do cows wear bells? Because their horns don't work!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016200000 +0100" stop="20261016220000 +0100" channel="6">
@@ -21961,7 +21995,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: Why do ghosts go on diets? So they can keep their ghoulish figures.</desc>
+😄 CLEAN JOKE: Why are men like lawnmowers? They are very hard to get started, they make yucky smells and half the time they don't even work.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016220000 +0100" stop="20261017000000 +0100" channel="4">
@@ -21975,7 +22009,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: No matter how kind you are... German kids are always Kinder.</desc>
+😈 DARK HUMOUR: What part of a vegetable are you not supposed to eat? The wheelchair.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261016220000 +0100" stop="20261017000000 +0100" channel="6">
@@ -22157,7 +22191,7 @@ Late-night security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
 🌤️ WEATHER: Clear; 6°C; 11% precipitation probability.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017000000 +0100" stop="20261017020000 +0100" channel="2">
@@ -22171,7 +22205,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.</desc>
+😄 CLEAN JOKE: My wife and I have reached the difficult decision that we do not want children. If anybody does, please just send me your contact details and we can drop them off tomorrow.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017000000 +0100" stop="20261017020000 +0100" channel="4">
@@ -22185,7 +22219,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: Why are Americans bad at Dota? They can't protect their towers.</desc>
+😈 DARK HUMOUR: What do 9 out of 10 people enjoy? Gang rape.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017000000 +0100" stop="20261017020000 +0100" channel="6">
@@ -22367,7 +22401,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Clear; 4°C; 6% precipitation probability.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017020000 +0100" stop="20261017040000 +0100" channel="2">
@@ -22381,7 +22415,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: Dads are like boomerangs. I hope.</desc>
+😄 CLEAN JOKE: What does Santa suffer from if he gets stuck in a chimney? Claustrophobia!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017020000 +0100" stop="20261017040000 +0100" channel="4">
@@ -22395,7 +22429,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: My house is haunted by an optimist. Everything goes bump in the bright side.</desc>
+😈 DARK HUMOUR: How do you make holy water? You freeze it and drill holes in it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017020000 +0100" stop="20261017040000 +0100" channel="6">
@@ -22577,7 +22611,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Clear; 2°C; 5% precipitation probability.
-📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
+📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017040000 +0100" stop="20261017060000 +0100" channel="2">
@@ -22591,7 +22625,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: Why does the size of the snack not matter to a giraffe? Because even a little bit goes a long way.</desc>
+😄 CLEAN JOKE: Two reasons I don't give money to homeless people. 1) They are going to spend it all on drugs and alcohol 2) I am going to spend it all on drugs and alcohol.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017040000 +0100" stop="20261017060000 +0100" channel="4">
@@ -22605,7 +22639,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: You see, mountains aren't just funny. They are hill areas.</desc>
+😈 DARK HUMOUR: My doctor told me to watch my drinking. So now I drink in front of a mirror.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017040000 +0100" stop="20261017060000 +0100" channel="6">
@@ -22787,7 +22821,7 @@ Pre-dawn CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
 🌤️ WEATHER: Clear; 2°C; 6% precipitation probability.
-📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
+📰 LOCAL NEWS: Teens urge government not to scrap Youth Parliament — Three members of the UK Youth Parliament urge ministers to rethink plans to stop funding the scheme.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017060000 +0100" stop="20261017080000 +0100" channel="2">
@@ -22801,7 +22835,7 @@ Morning CCTV monitoring.
     <title>Camera 03: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😄 CLEAN JOKE: What's the difference between a phone and a black person? A phone is actually useful.</desc>
+😄 CLEAN JOKE: Why does Santa have three gardens? So he can 'ho ho ho'!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017060000 +0100" stop="20261017080000 +0100" channel="4">
@@ -22815,7 +22849,7 @@ Morning CCTV monitoring.
     <title>Camera 05: Morning Watch</title>
     <desc>🔴 LIVE CCTV
 Morning CCTV monitoring.
-😈 DARK HUMOUR: What do you call a deer with no eyes? No eye deer.</desc>
+😈 DARK HUMOUR: What's the difference between an apple and a black guy? The apple will eventually fall from the tree that it's hanging from!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017060000 +0100" stop="20261017080000 +0100" channel="6">
@@ -22997,7 +23031,7 @@ Morning CCTV monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
 🌤️ WEATHER: Clear; 3°C; 8% precipitation probability.
-📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
+📰 LOCAL NEWS: Steam engine restoration remembers Gandhi visit — The Cross Compound Steam Engine is repainted to preserve reminders of Darwen's industrial heritage.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017080000 +0100" stop="20261017100000 +0100" channel="2">
@@ -23011,7 +23045,7 @@ Perimeter and access-point monitoring.
     <title>Camera 03: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😄 CLEAN JOKE: Your mama's so FAT she can't save files bigger than 4GB.</desc>
+😄 CLEAN JOKE: .NET developers are picky when it comes to food. They only like chicken NuGet.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017080000 +0100" stop="20261017100000 +0100" channel="4">
@@ -23025,7 +23059,7 @@ Perimeter and access-point monitoring.
     <title>Camera 05: Perimeter Watch</title>
     <desc>🔴 LIVE CCTV
 Perimeter and access-point monitoring.
-😈 DARK HUMOUR: Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</desc>
+😈 DARK HUMOUR: My calendar's days are numbered, and it knows it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017080000 +0100" stop="20261017100000 +0100" channel="6">
@@ -23207,7 +23241,7 @@ Perimeter and access-point monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
 🌤️ WEATHER: Clear; 7°C; 10% precipitation probability.
-📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
+📰 LOCAL NEWS: Four jailed for death of man tortured and set alight — Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017100000 +0100" stop="20261017120000 +0100" channel="2">
@@ -23221,7 +23255,7 @@ Continuous CCTV surveillance.
     <title>Camera 03: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😄 CLEAN JOKE: What do you call a fake noodle? An impasta!</desc>
+😄 CLEAN JOKE: What do you call a pile of kittens? A meowntain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017100000 +0100" stop="20261017120000 +0100" channel="4">
@@ -23235,7 +23269,7 @@ Continuous CCTV surveillance.
     <title>Camera 05: Live Surveillance</title>
     <desc>🔴 LIVE CCTV
 Continuous CCTV surveillance.
-😈 DARK HUMOUR: I told my psychiatrist I got suicidal tendencies. He said from now on I have to pay in advance.</desc>
+😈 DARK HUMOUR: I was reading a great book about an immortal dog the other day. It was impossible to put down.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017100000 +0100" stop="20261017120000 +0100" channel="6">
@@ -23417,7 +23451,7 @@ Continuous CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
 🌤️ WEATHER: Clear; 10°C; 12% precipitation probability.
-📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
+📰 LOCAL NEWS: Fireworks competition finale cancelled over winds — Thousands of visitors were expected to watch the displays which were scheduled over three nights.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017120000 +0100" stop="20261017140000 +0100" channel="2">
@@ -23431,7 +23465,7 @@ Daytime security monitoring.
     <title>Camera 03: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😄 CLEAN JOKE: What happened to the cannibal who showed up late to Halloween dinner? They gave him the cold shoulder.</desc>
+😄 CLEAN JOKE: I just saw my wife trip over and drop a basket full of ironed clothes. I watched it all unfold.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017120000 +0100" stop="20261017140000 +0100" channel="4">
@@ -23445,7 +23479,7 @@ Daytime security monitoring.
     <title>Camera 05: Daytime Watch</title>
     <desc>🔴 LIVE CCTV
 Daytime security monitoring.
-😈 DARK HUMOUR: What do Japanese cannibals eat? Raw men.</desc>
+😈 DARK HUMOUR: I bought a coffin with a lifetime guarantee. That seems optimistic.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017120000 +0100" stop="20261017140000 +0100" channel="6">
@@ -23627,7 +23661,7 @@ Daytime security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
 🌤️ WEATHER: Clear; 10°C; 14% precipitation probability.
-📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
+📰 LOCAL NEWS: Blackpool's Mooky the Clown awarded King's medal — Laci Endresz joined Blackpool Tower Circus in 1992 - and has never missed a show.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017140000 +0100" stop="20261017160000 +0100" channel="2">
@@ -23641,7 +23675,7 @@ General property and perimeter monitoring.
     <title>Camera 03: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😄 CLEAN JOKE: My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</desc>
+😄 CLEAN JOKE: Why was the mushroom always invited to parties? Cause he's a fungi.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017140000 +0100" stop="20261017160000 +0100" channel="4">
@@ -23655,7 +23689,7 @@ General property and perimeter monitoring.
     <title>Camera 05: Activity Watch</title>
     <desc>🔴 LIVE CCTV
 General property and perimeter monitoring.
-😈 DARK HUMOUR: A Roman walks into a bar and raises 2 fingers and says to the bartender... "Five beers, please."</desc>
+😈 DARK HUMOUR: Why are Americans bad at Dota? They can't protect their towers.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017140000 +0100" stop="20261017160000 +0100" channel="6">
@@ -23837,7 +23871,7 @@ General property and perimeter monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
 🌤️ WEATHER: Clear; 9°C; 14% precipitation probability.
-📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
+📰 LOCAL NEWS: Council has more than 100 cameras with facial recognition capability — Preston City Council has 130 cameras capable of live facial recognition technology, with one in use.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017160000 +0100" stop="20261017180000 +0100" channel="2">
@@ -23851,7 +23885,7 @@ Afternoon CCTV monitoring.
     <title>Camera 03: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😄 CLEAN JOKE: I didn't vaccinate my 10 kids and the one that survived is fine!</desc>
+😄 CLEAN JOKE: Why did the bicycle fall over? It was two-tired.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017160000 +0100" stop="20261017180000 +0100" channel="4">
@@ -23865,7 +23899,7 @@ Afternoon CCTV monitoring.
     <title>Camera 05: Afternoon Watch</title>
     <desc>🔴 LIVE CCTV
 Afternoon CCTV monitoring.
-😈 DARK HUMOUR: Why did the chicken cross the road, roll in the mud and cross the road again? He was a dirty double-crosser!</desc>
+😈 DARK HUMOUR: Where do sick cruise ships go to get healthy? The dock!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017160000 +0100" stop="20261017180000 +0100" channel="6">
@@ -24061,7 +24095,7 @@ Evening security monitoring.
     <title>Camera 03: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😄 CLEAN JOKE: I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check. Thankfully he was still chained up in my basement.</desc>
+😄 CLEAN JOKE: Why is it so hard to break up with a Japanese girlfriend? You have to drop the bomb twice before she gets it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017180000 +0100" stop="20261017200000 +0100" channel="4">
@@ -24075,7 +24109,7 @@ Evening security monitoring.
     <title>Camera 05: Evening Watch</title>
     <desc>🔴 LIVE CCTV
 Evening security monitoring.
-😈 DARK HUMOUR: What kind of bees produce milk? Boo-Bees.</desc>
+😈 DARK HUMOUR: My girlfriend left me because I have a fetish for touching pasta. I'm feeling cannelloni now. :'(</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017180000 +0100" stop="20261017200000 +0100" channel="6">
@@ -24257,7 +24291,7 @@ Evening security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
 🌤️ WEATHER: Clear; 6°C; 13% precipitation probability.
-📰 LOCAL NEWS: Council rejects proposed M65 toll charges — Reform UK's councillor Joel Tetlow proposed paying to pass a stretch of the motorway near Burnley.</desc>
+📰 LOCAL NEWS: Fraudster jailed over multi-million pound PPE scam — Craig Morris from Lytham St Annes pretended he could supply millions of boxes of nitrile gloves.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017200000 +0100" stop="20261017220000 +0100" channel="2">
@@ -24271,7 +24305,7 @@ Night-time CCTV surveillance.
     <title>Camera 03: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😄 CLEAN JOKE: "We messed up the keming again guys."</desc>
+😄 CLEAN JOKE: Why did the JavaScript heap close shop? It ran out of memory.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017200000 +0100" stop="20261017220000 +0100" channel="4">
@@ -24285,7 +24319,7 @@ Night-time CCTV surveillance.
     <title>Camera 05: Night Watch</title>
     <desc>🔴 LIVE CCTV
 Night-time CCTV surveillance.
-😈 DARK HUMOUR: You don't need a parachute to go skydiving. You only need one to go skydiving twice.</desc>
+😈 DARK HUMOUR: What do you call a pile of kittens? A meowntain.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017200000 +0100" stop="20261017220000 +0100" channel="6">
@@ -24481,7 +24515,7 @@ Late-night security monitoring.
     <title>Camera 03: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😄 CLEAN JOKE: What is the difference between acne and a catholic priest? Acne usually comes on a boys face *after* he turns 12.</desc>
+😄 CLEAN JOKE: Your momma is so fat, you need to switch to NTFS to store a picture of her.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017220000 +0100" stop="20261018000000 +0100" channel="4">
@@ -24495,7 +24529,7 @@ Late-night security monitoring.
     <title>Camera 05: Late Night Watch</title>
     <desc>🔴 LIVE CCTV
 Late-night security monitoring.
-😈 DARK HUMOUR: I bought a coffin with a lifetime guarantee. That seems optimistic.</desc>
+😈 DARK HUMOUR: How much did your chimney cost? Nothing, it was on the house.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261017220000 +0100" stop="20261018000000 +0100" channel="6">
@@ -24691,7 +24725,7 @@ Overnight CCTV surveillance.
     <title>Camera 03: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😄 CLEAN JOKE: If you're here for the yodeling lesson, please form an orderly orderly orderly queue.</desc>
+😄 CLEAN JOKE: What does a perverted frog say? Rubbit.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018000000 +0100" stop="20261018020000 +0100" channel="4">
@@ -24705,7 +24739,7 @@ Overnight CCTV surveillance.
     <title>Camera 05: Overnight Watch</title>
     <desc>🔴 LIVE CCTV
 Overnight CCTV surveillance.
-😈 DARK HUMOUR: Say what you want about pedophiles... But at least they drive slowly through the school zones.</desc>
+😈 DARK HUMOUR: The future, the present and the past walked into a bar. Things got tense.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018000000 +0100" stop="20261018020000 +0100" channel="6">
@@ -24887,7 +24921,7 @@ Overnight CCTV surveillance.</desc>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
+📰 LOCAL NEWS: 'Miracle' cars not fallen off bridge - councillor — Thomas de Freitas calls for an extension of a safety barrier on a busy bridge after several crashes.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018020000 +0100" stop="20261018040000 +0100" channel="2">
@@ -24901,7 +24935,7 @@ Continuous security monitoring.
     <title>Camera 03: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😄 CLEAN JOKE: Why can't your nose be twelve inches long? Then it would be a foot.</desc>
+😄 CLEAN JOKE: What says Oh Oh Oh? Santa walking backwards!</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018020000 +0100" stop="20261018040000 +0100" channel="4">
@@ -24915,7 +24949,7 @@ Continuous security monitoring.
     <title>Camera 05: Security Monitor</title>
     <desc>🔴 LIVE CCTV
 Continuous security monitoring.
-😈 DARK HUMOUR: What's the difference between an apple and a black guy? The apple will eventually fall from the tree that it's hanging from!</desc>
+😈 DARK HUMOUR: How do you make holy water? You boil the hell out of it.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018020000 +0100" stop="20261018040000 +0100" channel="6">
@@ -25097,7 +25131,7 @@ Continuous security monitoring.</desc>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
 🌤️ WEATHER: Forecast unavailable for this time.
-📰 LOCAL NEWS: 'You're living with this grief of watching your child regress' — Seven-year-old Mabel was diagnosed with Batten disease - a rare degenerative condition - three years ago.</desc>
+📰 LOCAL NEWS: Mum turned bodybuilder at 40 and is now winning big — Mum of two Danielle Cooper started bodybuilding at 40, and has since won a number of competitions.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018040000 +0100" stop="20261018060000 +0100" channel="2">
@@ -25111,7 +25145,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 03: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😄 CLEAN JOKE: Why are men like lawnmowers? They are very hard to get started, they make yucky smells and half the time they don't even work.</desc>
+😄 CLEAN JOKE: How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018040000 +0100" stop="20261018060000 +0100" channel="4">
@@ -25125,7 +25159,7 @@ Pre-dawn CCTV monitoring.
     <title>Camera 05: Pre-Dawn Watch</title>
     <desc>🔴 LIVE CCTV
 Pre-dawn CCTV monitoring.
-😈 DARK HUMOUR: My first high-school football game was a lot like my first time having sex. I was bloody and sore at the end, but at least my dad came.</desc>
+😈 DARK HUMOUR: I have a stepladder because my real ladder left when I was a child.</desc>
     <category>CCTV</category>
   </programme>
   <programme start="20261018040000 +0100" stop="20261018060000 +0100" channel="6">
